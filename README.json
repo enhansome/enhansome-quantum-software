@@ -1,0 +1,832 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pulser",
+          "description": "Python library for pulse-level/analog control of neutral atom devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:52:54Z",
+            "owner": "pasqal-io",
+            "repo": "Pulser",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloqade",
+          "description": "Package for the quantum computation and quantum simulation based on the neutral-atom architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-04-08T16:39:42Z",
+            "owner": "QuEraComputing",
+            "repo": "Bloqade.jl",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "Quantum Analog Hamiltonian"
+    },
+    {
+      "description": "C++",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TKET",
+          "description": "C++ library for placement, routing, and optimization of quantum circuits (developed by Quantinuum).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T09:23:34Z",
+            "owner": "Quantinuum",
+            "repo": "tket",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catalyst",
+          "description": "AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via PennyLane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:00:22Z",
+            "owner": "PennyLaneAI",
+            "repo": "catalyst",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScaffCC",
+          "description": "Compilation, analysis and optimization framework for the Scaffold quantum programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-09-28T15:30:02Z",
+            "owner": "epiqc",
+            "repo": "ScaffCC",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT QMAP",
+          "description": "Quantum circuit mapping. Clifford synthesis. Compilation for neutral atom architectures. Compatible with Qiskit through the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:10:07Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "qmap",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tweedledum",
+          "description": "C++17 library for analysis, compilation/synthesis, and optimization of quantum circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-16T18:14:31Z",
+            "owner": "boschmitt",
+            "repo": "tweedledum",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT SyReC",
+          "description": "HDL-based synthesis of reversible circuits for optimized circuit designs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T06:25:41Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "syrec",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCOR",
+          "description": "C++ language extension and associated compiler implementation for hybrid quantum-classical programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-20T17:26:33Z",
+            "owner": "ORNL-QCI",
+            "repo": "qcor",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Quantum compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenQASM",
+          "description": "Open-source quantum assembly language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T18:51:27Z",
+            "owner": "openqasm",
+            "repo": "openqasm",
+            "stars": 1497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quil",
+          "description": "Open hybrid quantum/classical instruction set currently used by Rigetti. Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T23:18:38Z",
+            "owner": "rigetti",
+            "repo": "pyquil",
+            "stars": 1496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QMASM",
+          "description": "Quantum macro assembler for D-Wave's quantum annealers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-28T01:25:34Z",
+            "owner": "lanl",
+            "repo": "qmasm",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackbird",
+          "description": "Open-source quantum instruction language currently used for Xanadu's photonic hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-10-18T15:01:46Z",
+            "owner": "XanaduAI",
+            "repo": "blackbird",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Quantum assembly"
+    },
+    {
+      "description": "Python",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qibo",
+          "description": "Qibo provides a platform agnostic quantum hardware control module with drivers for multiple instruments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:21:23Z",
+            "owner": "qiboteam",
+            "repo": "qibo",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krotov",
+          "description": "Python implementation of Krotov's method for quantum optimal control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-25T10:17:48Z",
+            "owner": "qucontrol",
+            "repo": "krotov",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C3",
+          "description": "Open-loop, closed-loop and automated Control, Calibration and Characterization of quantum devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-05T12:47:05Z",
+            "owner": "q-optimize",
+            "repo": "c3",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quanlse",
+          "description": "Quanlse provides quantum control solutions via a cloud SDK, developed by Baidu Quantum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-12-22T05:54:47Z",
+            "owner": "baidu",
+            "repo": "Quanlse",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gradpulse",
+          "description": "Differentiable, multi-solver-validated pulse optimizer for open-system superconducting-gate fidelities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T19:49:07Z",
+            "owner": "PureStateLabs",
+            "repo": "gradpulse",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Quantum control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scikit-quant",
+          "description": "This is a package to improve interoperability between different quantum computer software packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-22T23:16:57Z",
+            "owner": "scikit-quant",
+            "repo": "scikit-quant",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Soul",
+          "description": "Unified platform for CPU, GPU, FPGA, and Quantum Computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-18T12:07:48Z",
+            "owner": "NeuralDreamResearch",
+            "repo": "DigitalSoul",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Quantum interoperability"
+    },
+    {
+      "description": "C",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "liboqs",
+          "description": "C library for quantum-resistant cryptographic algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:07:40Z",
+            "owner": "open-quantum-safe",
+            "repo": "liboqs",
+            "stars": 3033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PQClean",
+          "description": "Clean, portable, tested implementations of post-quantum cryptography.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-08-04T06:48:53Z",
+            "owner": "PQClean",
+            "repo": "PQClean",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openssl",
+          "description": "OpenSSL with quantum-safe cryptographic algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-01-05T13:58:03Z",
+            "owner": "open-quantum-safe",
+            "repo": "openssl",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openssh",
+          "description": "OpenSSH with quantum-safe key exchange algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T18:19:16Z",
+            "owner": "open-quantum-safe",
+            "repo": "openssh",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TQ42 Cryptography",
+          "description": "Post-quantum algorithms, hash functions, digital signature, key encapsulation mechanism, PRNG, and key management functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-14T21:55:47Z",
+            "owner": "terra-quantum-public",
+            "repo": "tq42-pqc-oss",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Quantum and post-quantum cryptography"
+    },
+    {
+      "description": "Board games",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Entanglion",
+          "description": "The world’s first open source quantum computing board game. For 2 players.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-30T16:22:40Z",
+            "owner": "Entanglion",
+            "repo": "entanglion",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unitary",
+          "description": "API library providing common operations for adding quantum behaviors to games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OpenQASM",
+            "last_commit": "2026-06-02T00:17:31Z",
+            "owner": "quantumlib",
+            "repo": "unitary",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Quantum fun"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QDataSet",
+          "description": "Quantum datasets for the training and development of QML algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-17T00:59:34Z",
+            "owner": "eperrier",
+            "repo": "QDataSet",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuPrep",
+          "description": "Classical-to-quantum data encoding and preprocessing library for quantum machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T01:18:23Z",
+            "owner": "quprep",
+            "repo": "quprep",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Quantum data"
+    },
+    {
+      "description": "2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qiskit Tutorial",
+          "description": "Jupyter notebook filled with tutorials for Qiskit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-21T20:29:53Z",
+            "owner": "Qiskit",
+            "repo": "qiskit-tutorials",
+            "stars": 2538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuSim",
+          "description": "Ideal noise-free multi-qubit simulator written in 150 lines of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-04T17:57:44Z",
+            "owner": "adamisntdead",
+            "repo": "QuSimPy",
+            "stars": 726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit Aqua",
+          "description": "Library of various quantum algorithm implemented with Qiskit.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-11-26T13:57:45Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-aqua",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qiskit-ignis",
+          "description": "Tools for quantum hardware verification, noise characterization, and error correction.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-30T18:28:46Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-ignis",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit-JS",
+          "description": "Quantum information software kit for JavaScript (supported by IBM).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-09-08T16:19:40Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-js",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "8Q",
+          "description": "8 Qbit, Photonic Quantum Computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-02T11:52:04Z",
+            "owner": "Spooky-Manufacturing",
+            "repo": "8Q",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quipper",
+          "description": "Scalable functional programming language for quantum computing based on Quantum Lambda Calculus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2015-08-31T15:27:44Z",
+            "owner": "thephoeron",
+            "repo": "quipper-language",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantumUtils",
+          "description": "Tools for quantum control, simulation, channel representation conversion, and perturbations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mathematica",
+            "last_commit": "2018-05-30T15:57:25Z",
+            "owner": "QuantumUtils",
+            "repo": "quantum-utils-mathematica",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLACK-STONE",
+          "description": "Specification and implementation of quantum common lisp, for gate-model quantum computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2017-02-17T16:14:41Z",
+            "owner": "thephoeron",
+            "repo": "black-stone",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Virtual Machine",
+          "description": "Reference implementation of Rigetti's Quantum Virtual Machine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-02-07T21:13:05Z",
+            "owner": "rigetti",
+            "repo": "reference-qvm",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCL",
+          "description": "High level, hardware-agnostic programming language for quantum computers (syntax like C or Pascal).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-01-13T18:48:31Z",
+            "owner": "aviggiano",
+            "repo": "qcl",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QSEL",
+          "description": "Quantum programming language putting entanglement and superposition front and center.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-26T20:44:17Z",
+            "owner": "dabacon",
+            "repo": "qsel",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyQLab",
+          "description": "Library for instrument control and superconducting QIP experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-06T17:09:54Z",
+            "owner": "BBN-Q",
+            "repo": "PyQLab",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquil",
+          "description": "Java library for quantum programming using Quil.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-23T03:05:53Z",
+            "owner": "QCHackers",
+            "repo": "jquil",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QGL.jl",
+          "description": "Performance orientated QGL compiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2023-12-19T14:44:37Z",
+            "owner": "BBN-Q",
+            "repo": "QGL.jl",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QOCS",
+          "description": "Quantum OCaml Circuit Simulator is a functional approach to simulating quantum gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2017-07-27T01:20:16Z",
+            "owner": "dillanchang",
+            "repo": "QOCS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squankum",
+          "description": "Visual Java quantum simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2012-05-05T18:05:18Z",
+            "owner": "jeffwass",
+            "repo": "Squankum",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sapi_dimod",
+          "description": "Dimod wrapper for D-Wave's Solver API (SAPI).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-02-21T20:44:27Z",
+            "owner": "dwavesystems",
+            "repo": "dwave_sapi_dimod",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libQuantumJava",
+          "description": "Crude translation from the C implementation of to a Java version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-08-07T08:34:20Z",
+            "owner": "gbanegas",
+            "repo": "libQuantumJava",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySimulator",
+          "description": "Python with C++ backend simulator for superconducting circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-02-14T03:31:49Z",
+            "owner": "BBN-Q",
+            "repo": "PySimulator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quince",
+          "description": "Node-based GUI that allows for graphical configuration of qubit experiments in Auspex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-07T06:27:46Z",
+            "owner": "BBN-Q",
+            "repo": "Quince",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCViewer",
+          "description": "Visual quantum circuit design and simulation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-09-18T18:32:29Z",
+            "owner": "QCT-IQC",
+            "repo": "QCViewer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QACG",
+          "description": "Quantum Arithmetic Circuit Generator in Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2013-08-22T06:53:49Z",
+            "owner": "QCT-IQC",
+            "repo": "qacg",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qlmp",
+          "description": "Interpreter for the functional quantum programming language Qumin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-28T18:55:56Z",
+            "owner": "wintershammer",
+            "repo": "QImp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goqu",
+          "description": "Quantum computing simulation library for GoLang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-02T17:39:05Z",
+            "owner": "cco3",
+            "repo": "goqu",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Abandoned projects"
+    },
+    {
+      "description": "See the contribution guidelines.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, the Quantum Open Source Foundation has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:19.685Z",
+    "original_repository": "qosf/awesome-quantum-software",
+    "original_repository_sha": "52414f46bcc873ab46485561fdb19efc1d759c89",
+    "enhanced_repository": "enhansome/enhansome-quantum-software",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open-Source Quantum Software Projects with stars"
+  }
+}
