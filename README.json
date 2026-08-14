@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T07:52:54Z",
             "owner": "pasqal-io",
             "repo": "Pulser",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T09:23:34Z",
+            "last_commit": "2026-08-13T09:38:04Z",
             "owner": "Quantinuum",
             "repo": "tket",
             "stars": 315
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:00:22Z",
+            "last_commit": "2026-08-13T22:40:42Z",
             "owner": "PennyLaneAI",
             "repo": "catalyst",
             "stars": 232
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T06:25:41Z",
+            "last_commit": "2026-08-13T18:33:44Z",
             "owner": "munich-quantum-toolkit",
             "repo": "syrec",
             "stars": 38
@@ -149,7 +149,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T18:51:27Z",
+            "last_commit": "2026-08-13T23:32:09Z",
             "owner": "openqasm",
             "repo": "openqasm",
             "stars": 1497
@@ -166,7 +166,7 @@
             "last_commit": "2026-07-29T23:18:38Z",
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1496
+            "stars": 1497
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-12T20:07:40Z",
             "owner": "open-quantum-safe",
             "repo": "liboqs",
-            "stars": 3033
+            "stars": 3034
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-07T18:19:16Z",
             "owner": "open-quantum-safe",
             "repo": "openssh",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2023-08-21T20:29:53Z",
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2538
+            "stars": 2539
           }
         },
         {
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:18:19.685Z",
+    "last_updated": "2026-08-14T00:10:22.060Z",
     "original_repository": "qosf/awesome-quantum-software",
     "original_repository_sha": "52414f46bcc873ab46485561fdb19efc1d759c89",
     "enhanced_repository": "enhansome/enhansome-quantum-software",
