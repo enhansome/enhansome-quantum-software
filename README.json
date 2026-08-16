@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T09:59:31Z",
+            "last_commit": "2026-08-16T22:39:36Z",
             "owner": "munich-quantum-toolkit",
             "repo": "qmap",
             "stars": 141
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T10:12:20Z",
+            "last_commit": "2026-08-16T20:36:21Z",
             "owner": "munich-quantum-toolkit",
             "repo": "syrec",
             "stars": 38
@@ -321,7 +321,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T20:07:40Z",
+            "last_commit": "2026-08-16T01:50:08Z",
             "owner": "open-quantum-safe",
             "repo": "liboqs",
             "stars": 3036
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:49:52.633Z",
+    "last_updated": "2026-08-16T23:49:01.325Z",
     "original_repository": "qosf/awesome-quantum-software",
     "original_repository_sha": "41f0680d4050961d79f05c11b433c64a46fef728",
     "enhanced_repository": "enhansome/enhansome-quantum-software",
