@@ -28,7 +28,7 @@
             "last_commit": "2026-04-08T16:39:42Z",
             "owner": "QuEraComputing",
             "repo": "Bloqade.jl",
-            "stars": 212
+            "stars": 213
           }
         }
       ],
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T09:38:04Z",
+            "last_commit": "2026-08-18T14:51:43Z",
             "owner": "Quantinuum",
             "repo": "tket",
             "stars": 314
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:47:37Z",
+            "last_commit": "2026-08-18T23:50:10Z",
             "owner": "PennyLaneAI",
             "repo": "catalyst",
             "stars": 232
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-17T12:14:51Z",
             "owner": "openqasm",
             "repo": "openqasm",
-            "stars": 1498
+            "stars": 1499
           }
         },
         {
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:36:22Z",
+            "last_commit": "2026-08-18T23:40:18Z",
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1497
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T22:20:12Z",
+            "last_commit": "2026-08-18T05:21:25Z",
             "owner": "qiboteam",
             "repo": "qibo",
-            "stars": 361
+            "stars": 360
           }
         },
         {
@@ -321,10 +321,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T01:50:08Z",
+            "last_commit": "2026-08-18T00:50:39Z",
             "owner": "open-quantum-safe",
             "repo": "liboqs",
-            "stars": 3037
+            "stars": 3038
           }
         },
         {
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:50:51.035Z",
+    "last_updated": "2026-08-18T23:51:03.803Z",
     "original_repository": "qosf/awesome-quantum-software",
     "original_repository_sha": "41f0680d4050961d79f05c11b433c64a46fef728",
     "enhanced_repository": "enhansome/enhansome-quantum-software",
