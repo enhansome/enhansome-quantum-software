@@ -1,7 +1,1414 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "C\nC++\nOCaml\nPython\nQ#\nRust\nSilq",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CUDA-Q",
+          "description": "Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614026597,
+            "language": "C++",
+            "last_commit": "2026-08-19T12:35:20Z",
+            "owner": "NVIDIA",
+            "repo": "cuda-quantum",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qpp",
+          "description": "Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17992615,
+            "language": "C++",
+            "last_commit": "2026-07-20T00:15:52Z",
+            "owner": "softwareQinc",
+            "repo": "qpp",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staq",
+          "description": "Full stack quantum processing toolkit (arXiv paper).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186665389,
+            "language": "OpenQASM",
+            "last_commit": "2026-02-22T00:20:39Z",
+            "owner": "softwareQinc",
+            "repo": "staq",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avaloni",
+          "description": "Programming language (interpreter) for classical-quantum hybrid computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148658722,
+            "language": "C++",
+            "last_commit": "2018-12-16T15:00:13Z",
+            "owner": "avalon-lang",
+            "repo": "avaloni",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qristal",
+          "description": "Quantum Brilliance's hybrid quantum-classical C++/Python development platform (docs; core module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 690330685,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-20T10:24:05Z",
+            "owner": "qbrilliance",
+            "repo": "qristal",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XACC",
+          "description": "Extreme-scale programming model for quantum acceleration within high-performance computing (arXiv paper).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804889761,
+            "language": "C++",
+            "last_commit": "2025-01-17T17:45:48Z",
+            "owner": "ORNL-QCI",
+            "repo": "xacc",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cirq",
+          "description": "Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114306758,
+            "language": "Python",
+            "last_commit": "2026-08-19T03:56:18Z",
+            "owner": "quantumlib",
+            "repo": "Cirq",
+            "stars": 5051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forest",
+          "description": "Rigetti's software library for writing, simulating, compiling and executing quantum programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78470807,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:20:23Z",
+            "owner": "rigetti",
+            "repo": "pyquil",
+            "stars": 1497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CUDA-Q",
+          "description": "Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614026597,
+            "language": "C++",
+            "last_commit": "2026-08-19T12:35:20Z",
+            "owner": "NVIDIA",
+            "repo": "cuda-quantum",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProjectQ",
+          "description": "Hardware-agnostic framework with compiler and simulator with emulation capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77520796,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:56:13Z",
+            "owner": "ProjectQ-Framework",
+            "repo": "ProjectQ",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strawberry Fields",
+          "description": "Xanadu's software library for photonic quantum computing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 126842861,
+            "language": "Python",
+            "last_commit": "2026-01-16T19:47:58Z",
+            "owner": "XanaduAI",
+            "repo": "strawberryfields",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocean",
+          "description": "D-Wave System's suite of tools for solving hard problems with quantum computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111591819,
+            "language": "Python",
+            "last_commit": "2026-08-10T23:28:00Z",
+            "owner": "dwavesystems",
+            "repo": "dwave-ocean-sdk",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tequila",
+          "description": "Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik's group (UofT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259718912,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:29:53Z",
+            "owner": "tequilahub",
+            "repo": "tequila",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blueqat",
+          "description": "Quantum computing SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143221277,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:59:41Z",
+            "owner": "blueqat",
+            "repo": "blueqatSDK",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Braket",
+          "description": "Amazon's fully managed quantum computing service for building quantum algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221583289,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:29:13Z",
+            "owner": "amazon-braket",
+            "repo": "amazon-braket-sdk-python",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qibo",
+          "description": "An open-source framework for quantum simulation, self-hosted quantum hardware control and calibration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241307936,
+            "language": "Python",
+            "last_commit": "2026-08-18T05:21:25Z",
+            "owner": "qiboteam",
+            "repo": "qibo",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorCircuit",
+          "description": "Tensor network based quantum software framework for the NISQ era.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 492659956,
+            "language": "Python",
+            "last_commit": "2025-10-22T08:56:47Z",
+            "owner": "tencent-quantum-lab",
+            "repo": "tensorcircuit",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qrisp",
+          "description": "A high-level programming language and framework for creating and compiling quantum algorithms (GitHub).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 632066325,
+            "language": "Python",
+            "last_commit": "2026-08-18T11:14:53Z",
+            "owner": "eclipse-qrisp",
+            "repo": "Qrisp",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perceval",
+          "description": "Quandela's software library for programming realistic photonic quantum computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475939585,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:26:44Z",
+            "owner": "Quandela",
+            "repo": "Perceval",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tangelo",
+          "description": "and Tangelo-Examples - Toolkit for quantum chemistry simulation workflows on quantum computers, maintained by SandboxAQ.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 344584158,
+            "language": "Python",
+            "last_commit": "2026-08-05T19:46:55Z",
+            "owner": "sandbox-quantum",
+            "repo": "Tangelo",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenQL",
+          "description": "Compiler framework with algorithm libraries, optimizer, scheduler, QEC, mapping, micro-code generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88172497,
+            "language": "C++",
+            "last_commit": "2024-09-03T22:11:46Z",
+            "owner": "QuTech-Delft",
+            "repo": "OpenQL",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantum-os",
+          "description": "Operating system based on Linux kernel for quantum computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 432439464,
+            "language": "C",
+            "last_commit": "2022-02-05T19:10:14Z",
+            "owner": "quantumos-org",
+            "repo": "quantum-os",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qadence",
+          "description": "Pasqal's package for building differentiable digital and digital-analog quantum programs realizable on neutral atom devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685111739,
+            "language": "Python",
+            "last_commit": "2025-12-08T14:23:38Z",
+            "owner": "pasqal-io",
+            "repo": "qadence",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bosonic-qiskit",
+          "description": "Simulate hybrid boson-qubit systems within Qiskit, implemented as a part of the Co-design Center for Quantum Advantage (C2QA) of the National Quantum Initiative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306339692,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-15T17:09:28Z",
+            "owner": "C2QA",
+            "repo": "bosonic-qiskit",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantumcat",
+          "description": "Cross-platform open-source high-level quantum computing library focused on building applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 353344004,
+            "language": "Python",
+            "last_commit": "2024-01-03T04:46:38Z",
+            "owner": "artificial-brain",
+            "repo": "quantumcat",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qristal",
+          "description": "Quantum Brilliance's hybrid quantum-classical C++/Python development platform (docs; core module).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 690330685,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-20T10:24:05Z",
+            "owner": "qbrilliance",
+            "repo": "qristal",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hybridlane",
+          "description": "Full-stack library for mixed-variable (CV-DV) quantum programming across simulators and hardware within PennyLane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1024337986,
+            "language": "Python",
+            "last_commit": "2026-08-14T20:39:04Z",
+            "owner": "pnnl",
+            "repo": "hybridlane",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyQudit",
+          "description": "Python package for generalized and universal versions of quantum gates in N-dimensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 382794049,
+            "language": "Python",
+            "last_commit": "2021-07-13T19:14:04Z",
+            "owner": "Atiraek",
+            "repo": "pyqudit",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Quantum full-stack libraries"
+    },
+    {
+      "description": "Assembly\nC\nCommon Lisp\nCoq\nC++\nF#\nGoLang\nJava\nJavaScript\nJulia\nPython\nRust\nSwift",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QuEST",
+          "description": "Quantum Exact Simulation Toolkit is a high performance multicore simulator of universal quantum circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86454800,
+            "language": "C++",
+            "last_commit": "2026-08-17T03:35:17Z",
+            "owner": "QuEST-Kit",
+            "repo": "QuEST",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TNQVM",
+          "description": "Tensor Network QPU Simulator for Eclipse XACC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73201965,
+            "language": "C++",
+            "last_commit": "2025-03-05T20:50:25Z",
+            "owner": "ORNL-QCI",
+            "repo": "tnqvm",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuaC",
+          "description": "Parallel time-dependent open quantum systems solver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58292024,
+            "language": "C",
+            "last_commit": "2024-07-04T13:05:23Z",
+            "owner": "0tt3r",
+            "repo": "QuaC",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qsim",
+          "description": "Open-source, GPU-enabled C++ and Python library for fast state-vector simulation of quantum circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236547448,
+            "language": "C++",
+            "last_commit": "2026-08-15T04:05:40Z",
+            "owner": "quantumlib",
+            "repo": "qsim",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit Aer",
+          "description": "High performance simulator for quantum circuits that includes noise models (supported by IBM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162182953,
+            "language": "C++",
+            "last_commit": "2026-05-25T16:18:45Z",
+            "owner": "Qiskit",
+            "repo": "qiskit-aer",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum++",
+          "description": "High-performance general purpose quantum simulator (can simulate d-dimensional qudits) (paper).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17992615,
+            "language": "C++",
+            "last_commit": "2026-07-20T00:15:52Z",
+            "owner": "softwareQinc",
+            "repo": "qpp",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intel Quantum Simulator",
+          "description": "Distributed qubit register quantum simulator using OpenMP and MPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242080770,
+            "language": "C++",
+            "last_commit": "2026-08-13T16:40:05Z",
+            "owner": "intel",
+            "repo": "intel-qs",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qrack",
+          "description": "Comprehensive qubit and gate implementation for developing universal virtual quantum processors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114947047,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:02:22Z",
+            "owner": "unitaryfoundation",
+            "repo": "qrack",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT DDSIM",
+          "description": "Quantum circuit simulator using decision diagrams as a datastructure. Python interface and Qiskit backend via the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239731195,
+            "language": "C++",
+            "last_commit": "2026-08-19T12:07:49Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "ddsim",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PennyLane Lightning",
+          "description": "Fast state-vector simulator written in C++. GPU support. Python interface via PennyLane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277556169,
+            "language": "C++",
+            "last_commit": "2026-08-18T15:20:29Z",
+            "owner": "PennyLaneAI",
+            "repo": "pennylane-lightning",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tweedledum",
+          "description": "Library for synthesis, compilation, and optimization of quantum circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140888411,
+            "language": "C++",
+            "last_commit": "2026-07-16T18:14:31Z",
+            "owner": "boschmitt",
+            "repo": "tweedledum",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCSim",
+          "description": "Quantum computing simulator with many algorithms as examples and tests (blog post).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 533651213,
+            "language": "C++",
+            "last_commit": "2026-08-07T10:09:51Z",
+            "owner": "aromanro",
+            "repo": "QCSim",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huawei HiQsimulator",
+          "description": "Single-amplitude, Full-amplitude and Error-correction circuit simulation engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182899252,
+            "language": "C++",
+            "last_commit": "2021-10-11T08:03:31Z",
+            "owner": "MindQuantum-HiQ",
+            "repo": "HiQsimulator",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCEAD",
+          "description": "C++ program to both simulate a quantum computer and use parallel evolutionary techniques to design algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97923026,
+            "language": "Python",
+            "last_commit": "2026-05-19T23:52:34Z",
+            "owner": "llens",
+            "repo": "QuantumComputingEvolutionaryAlgorithmDesign",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QPlayer",
+          "description": "Light-weight, scalable and fast quantum Schrödinger simulator (paper).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 412243500,
+            "language": "C++",
+            "last_commit": "2025-09-15T06:43:50Z",
+            "owner": "eQuantumOS",
+            "repo": "QPlayer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qSim",
+          "description": "High level, elementary simulation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143720432,
+            "language": "C++",
+            "last_commit": "2022-08-15T20:22:55Z",
+            "owner": "haykkh",
+            "repo": "qSim",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qFlex",
+          "description": "Flexible high-performance simulator for verifying and benchmarking quantum circuits implemented on real hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137415395,
+            "language": null,
+            "last_commit": "2026-01-19T10:44:34Z",
+            "owner": "ngnrsaa",
+            "repo": "qflex",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quirk",
+          "description": "Drag-and-drop quantum circuit simulator in your browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17459162,
+            "language": "JavaScript",
+            "last_commit": "2024-07-16T13:15:51Z",
+            "owner": "Strilanc",
+            "repo": "Quirk",
+            "stars": 1096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Circuit Simulator",
+          "description": "Smoothly runs 20+ qubit simulations in browser or on node.js server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74958916,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T08:52:56Z",
+            "owner": "quantastica",
+            "repo": "quantum-circuit",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum-computing-playground",
+          "description": "Browser-based simple IDE interface to run, visualize and debug quantum programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21174092,
+            "language": "JavaScript",
+            "last_commit": "2016-08-12T22:02:08Z",
+            "owner": "gwroblew",
+            "repo": "Quantum-Computing-Playground",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum tensors",
+          "description": "JavaScript / TypeScript package for sparse tensor operations on complex numbers for quantum computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192385310,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T04:20:01Z",
+            "owner": "Quantum-Flytrap",
+            "repo": "quantum-tensors",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsquil",
+          "description": "JavaScript interface for writing Quil programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84122792,
+            "language": "JavaScript",
+            "last_commit": "2020-06-24T23:24:11Z",
+            "owner": "mapmeld",
+            "repo": "jsquil",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yao.jl",
+          "description": "Extensible, Efficient Quantum Algorithm Design for Humans.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129408314,
+            "language": "Julia",
+            "last_commit": "2026-08-10T00:34:28Z",
+            "owner": "QuantumBFS",
+            "repo": "Yao.jl",
+            "stars": 1040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantumToolbox.jl",
+          "description": "High-performance, GPU-ready and autodiff-friendly simulations of open quantum systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470180435,
+            "language": "Julia",
+            "last_commit": "2026-08-07T05:07:42Z",
+            "owner": "qutip",
+            "repo": "QuantumToolbox.jl",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IonSim.jl",
+          "description": "Simulate the dynamics of a configuration of trapped ions interacting with laser light.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243056795,
+            "language": "Julia",
+            "last_commit": "2025-11-04T07:32:27Z",
+            "owner": "HaeffnerLab",
+            "repo": "IonSim.jl",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PauliStrings.jl",
+          "description": "Many-body simulations in the Pauli strings representation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 846513715,
+            "language": "Julia",
+            "last_commit": "2026-08-15T11:30:55Z",
+            "owner": "nicolasloizeau",
+            "repo": "PauliStrings.jl",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cliffords.jl",
+          "description": "Efficient calculation of Clifford circuits in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19832939,
+            "language": "Julia",
+            "last_commit": "2021-07-01T16:44:20Z",
+            "owner": "BBN-Q",
+            "repo": "Cliffords.jl",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KadanoffBaym.jl",
+          "description": "Adaptive many-body time evolution of non-equilibrium Green functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207996814,
+            "language": "Julia",
+            "last_commit": "2026-06-18T10:44:52Z",
+            "owner": "NonequilibriumDynamics",
+            "repo": "KadanoffBaym.jl",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BosonSampling.jl",
+          "description": "Efficient simulation of multiphoton interference.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 449838568,
+            "language": "Julia",
+            "last_commit": "2026-08-16T15:02:43Z",
+            "owner": "benoitseron",
+            "repo": "BosonSampling.jl",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QSimulator.jl",
+          "description": "Unitary and Lindbladian evolution in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11779153,
+            "language": "Julia",
+            "last_commit": "2022-05-19T08:56:42Z",
+            "owner": "BBN-Q",
+            "repo": "QSimulator.jl",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantumInfo.jl",
+          "description": "Julia library for quantum information related calculations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68219072,
+            "language": "Julia",
+            "last_commit": "2022-02-21T06:59:56Z",
+            "owner": "BBN-Q",
+            "repo": "QuantumInfo.jl",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmoQ.jl",
+          "description": "Matrix-free simulation of pure and mixed quantum states.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1146136108,
+            "language": "Julia",
+            "last_commit": "2026-02-09T08:55:01Z",
+            "owner": "MarcinPlodzien",
+            "repo": "SmoQ.jl",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RandomQuantum.jl",
+          "description": "Package for generating random quantum states and processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68222490,
+            "language": "Julia",
+            "last_commit": "2022-12-16T18:07:31Z",
+            "owner": "BBN-Q",
+            "repo": "RandomQuantum.jl",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stim",
+          "description": "Fast stabilizer circuit simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340417908,
+            "language": "C++",
+            "last_commit": "2026-08-04T18:26:50Z",
+            "owner": "quantumlib",
+            "repo": "Stim",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qsim",
+          "description": "Open-source, GPU-enabled C++ and Python library for fast state-vector simulation of quantum circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236547448,
+            "language": "C++",
+            "last_commit": "2026-08-15T04:05:40Z",
+            "owner": "quantumlib",
+            "repo": "qsim",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quimb",
+          "description": "Easy but fast python library for quantum information and many-body calculations, including with tensor networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47694811,
+            "language": "Python",
+            "last_commit": "2026-08-15T21:50:29Z",
+            "owner": "jcmgray",
+            "repo": "quimb",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quintuple",
+          "description": "Simulating the 5-qubit processor of the IBM Quantum Experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58356276,
+            "language": "Python",
+            "last_commit": "2022-12-29T04:35:18Z",
+            "owner": "corbett",
+            "repo": "QuantumComputing",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qibo",
+          "description": "Framework for quantum simulation with hardware acceleration using just-in-time compilation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241307936,
+            "language": "Python",
+            "last_commit": "2026-08-18T05:21:25Z",
+            "owner": "qiboteam",
+            "repo": "qibo",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuNetSim",
+          "description": "Quantum network simulation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222952561,
+            "language": "Python",
+            "last_commit": "2024-04-02T21:30:07Z",
+            "owner": "tqsd",
+            "repo": "QuNetSim",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimulaQron",
+          "description": "Application level simulator of a quantum network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95352345,
+            "language": "Python",
+            "last_commit": "2026-05-15T15:34:22Z",
+            "owner": "SoftwareQuTech",
+            "repo": "SimulaQron",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tsim",
+          "description": "GPU-accelerated universal quantum circuit sampler via ZX-calculus stabilizer-rank decomposition (Stim-like API, with non-Clifford support).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1091849451,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:18:47Z",
+            "owner": "QuEraComputing",
+            "repo": "tsim",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphix",
+          "description": "Measurement-Based Quantum Computing (MBQC) compiler, simulator and QPU interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 573466585,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:02:53Z",
+            "owner": "TeamGraphix",
+            "repo": "graphix",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Walrus",
+          "description": "Xanadu's library for simulating Gaussian Boson Sampling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133076992,
+            "language": "Python",
+            "last_commit": "2026-07-24T12:55:21Z",
+            "owner": "XanaduAI",
+            "repo": "thewalrus",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCompute",
+          "description": "Baidu's software development kit for designing quantum circuits and simulating on a high-performance simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293708494,
+            "language": "Python",
+            "last_commit": "2023-12-18T03:49:41Z",
+            "owner": "baidu",
+            "repo": "QCompute",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piquasso",
+          "description": "A photonic quantum computing simulator library written in Python/C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365477750,
+            "language": "Python",
+            "last_commit": "2026-08-01T21:13:41Z",
+            "owner": "Budapest-Quantum-Computing-Group",
+            "repo": "piquasso",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCircuits",
+          "description": "User-friendly quantum circuit simulator designed for students and newcomers to quantum computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174512586,
+            "language": "Python",
+            "last_commit": "2022-07-08T02:24:26Z",
+            "owner": "grey-area",
+            "repo": "qcircuits",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interlin-q",
+          "description": "Quantum network simulator imitating distributed quantum systems with interconnect communication between nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307312695,
+            "language": "Python",
+            "last_commit": "2021-09-26T12:29:05Z",
+            "owner": "Interlin-q",
+            "repo": "Interlin-q",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyQTorch",
+          "description": "PyTorch-based state vector simulator designed for quantum machine learning from Pasqal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451881855,
+            "language": "Python",
+            "last_commit": "2025-06-20T15:17:15Z",
+            "owner": "pasqal-io",
+            "repo": "pyqtorch",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuPy",
+          "description": "Quantum circuit simulator for both CPU and GPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145424832,
+            "language": "Python",
+            "last_commit": "2019-05-21T05:53:22Z",
+            "owner": "ken-nakanishi",
+            "repo": "qupy",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QTop",
+          "description": "Simulation and visualization of topological quantum computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63372599,
+            "language": "Python",
+            "last_commit": "2020-02-15T01:37:58Z",
+            "owner": "jacobmarks",
+            "repo": "QTop",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuSpin",
+          "description": "Exact diagonalization and dynamics of arbitrary boson, fermion and spin many-body systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580949252,
+            "language": "Python",
+            "last_commit": "2022-12-22T04:33:15Z",
+            "owner": "weinbe58",
+            "repo": "QuSpin",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Horqrux",
+          "description": "Jax-based quantum state vector simulator tailored for quantum machine learning from Pasqal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 719011228,
+            "language": "Python",
+            "last_commit": "2025-06-28T09:14:22Z",
+            "owner": "pasqal-io",
+            "repo": "horqrux",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quditto",
+          "description": "QKD Network emulator that automatically deploys distributed, ETSI GS QKD 014–compliant QKD networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705753648,
+            "language": "Python",
+            "last_commit": "2026-02-19T11:31:08Z",
+            "owner": "Networks-it-uc3m",
+            "repo": "Quditto",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MentPy",
+          "description": "Python package for creating and simulating Measurement-based Quantum Computating (MBQC) programs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 533420138,
+            "language": "Python",
+            "last_commit": "2023-10-23T16:27:45Z",
+            "owner": "bestquark",
+            "repo": "mentpy",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIQS",
+          "description": "Efficient simulation of open quantum dynamics of identical qubits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104438298,
+            "language": "Python",
+            "last_commit": "2024-04-23T17:00:21Z",
+            "owner": "nathanshammah",
+            "repo": "piqs",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuForge",
+          "description": "Python package for qudit simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738669775,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:45:50Z",
+            "owner": "tiago939",
+            "repo": "QuForge",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MISTIQS",
+          "description": "Generating/compiling/executing quantum circuits for simulating quantum many-body dynamics of systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291330966,
+            "language": "Python",
+            "last_commit": "2021-06-02T06:50:46Z",
+            "owner": "USCCACS",
+            "repo": "MISTIQS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quantum-computing",
+          "description": "Functionally complete simulator for universal quantum computing in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63031126,
+            "language": "Python",
+            "last_commit": "2026-07-14T20:20:58Z",
+            "owner": "atulvarshneya",
+            "repo": "quantum-computing",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeQuencing",
+          "description": "Construct and simulate realistic quantum control sequences using QuTiP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334427937,
+            "language": "Python",
+            "last_commit": "2022-09-09T17:25:30Z",
+            "owner": "sequencing-dev",
+            "repo": "sequencing",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dense-Evolution",
+          "description": "High-performance NISQ statevector simulator with JAX JIT/XLA compilation, optional CuPy GPU acceleration, and built-in zero-noise-extrapolation error mitigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1247011090,
+            "language": "Python",
+            "last_commit": "2026-08-19T08:34:10Z",
+            "owner": "tatopenn-cell",
+            "repo": "Dense-Evolution",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOQCS",
+          "description": "Library to define, simulate, and study non-ideal quantum optical circuits (API provided both in Python and C++).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 509216693,
+            "language": "C++",
+            "last_commit": "2024-01-02T16:20:54Z",
+            "owner": "SOQCSAdmin",
+            "repo": "SOQCS",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scpn-quantum-control",
+          "description": "Quantum simulation of coupled Kuramoto-XY oscillators on IBM hardware, with Rust-accelerated Hamiltonian construction, synchronisation witnesses, and Lindblad open-system dynamics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1168952870,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:36:11Z",
+            "owner": "anulum",
+            "repo": "scpn-quantum-control",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCGPU",
+          "description": "High-performance GPU-accelerated quantum computer simulation outlined in this arXiv paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123973794,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:24:36Z",
+            "owner": "libtangle",
+            "repo": "qcgpu",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustQIP",
+          "description": "Rust Quantum Computing library leveraging graph building to build efficient quantum circuit simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185723988,
+            "language": "Rust",
+            "last_commit": "2025-12-23T19:59:14Z",
+            "owner": "Renmusxd",
+            "repo": "RustQIP",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quriust",
+          "description": "A blazing fast Rust library for simulating quantum circuits. Only for quriust ones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 732800247,
+            "language": "Rust",
+            "last_commit": "2024-05-10T09:38:37Z",
+            "owner": "PietroZanotta",
+            "repo": "quriust",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Quantum simulators"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +1417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294159001,
             "language": "Python",
             "last_commit": "2026-08-12T07:52:54Z",
             "owner": "pasqal-io",
@@ -24,6 +1432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419271818,
             "language": "Julia",
             "last_commit": "2026-04-08T16:39:42Z",
             "owner": "QuEraComputing",
@@ -35,7 +1444,679 @@
       "title": "Quantum Analog Hamiltonian"
     },
     {
-      "description": "C++",
+      "description": "C++\nGo\nJulia\nPython\nPython, C & Matlab",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QA Prolog",
+          "description": "Compile a subset of Prolog to a D-Wave Hamiltonian function",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147856671,
+            "language": "Go",
+            "last_commit": "2022-01-25T20:31:42Z",
+            "owner": "lanl",
+            "repo": "QA-Prolog",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edif2qmasm",
+          "description": "Compile Verilog, VHDL, and other hardware-description languages to a D-Wave Hamiltonian function",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75098020,
+            "language": "Go",
+            "last_commit": "2022-09-23T05:45:22Z",
+            "owner": "lanl",
+            "repo": "edif2qmasm",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QMASM",
+          "description": "Quantum macro assembler for D-Wave systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62914711,
+            "language": "Python",
+            "last_commit": "2021-02-28T01:25:34Z",
+            "owner": "lanl",
+            "repo": "qmasm",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dimod",
+          "description": "Shared API for Ising and QUBO problems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100658303,
+            "language": "Python",
+            "last_commit": "2026-08-04T20:00:31Z",
+            "owner": "dwavesystems",
+            "repo": "dimod",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dwave-system",
+          "description": "API for easily incorporating D-Wave quantum annealers as samplers in the Ocean software stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122113009,
+            "language": "Python",
+            "last_commit": "2026-06-17T17:26:17Z",
+            "owner": "dwavesystems",
+            "repo": "dwave-system",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dwave_networkx",
+          "description": "Exploration and analysis of network graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101324744,
+            "language": "Python",
+            "last_commit": "2026-06-16T23:17:44Z",
+            "owner": "dwavesystems",
+            "repo": "dwave-graphs",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dwave_neal",
+          "description": "Implementation of a simulated annealing sampler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106726167,
+            "language": "Python",
+            "last_commit": "2022-11-25T23:44:04Z",
+            "owner": "dwavesystems",
+            "repo": "dwave-neal",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dwave-cloud-client",
+          "description": "Min. implementation of the REST interface to communicate with D-Wave's Solver API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105712917,
+            "language": "Python",
+            "last_commit": "2026-07-31T17:04:37Z",
+            "owner": "dwavesystems",
+            "repo": "dwave-cloud-client",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qubo-nn",
+          "description": "Classifying, auto-encoding and reverse-engineering QUBO matrices. Also includes 20 problem formulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 334716688,
+            "language": "Python",
+            "last_commit": "2021-09-29T19:02:26Z",
+            "owner": "instance01",
+            "repo": "qubo-nn",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minorminer",
+          "description": "Heuristic tool for minor graph embedding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115147126,
+            "language": "Python",
+            "last_commit": "2026-08-18T17:32:52Z",
+            "owner": "dwavesystems",
+            "repo": "minorminer",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qubovert",
+          "description": "Formulating and simulated annealing of Ising, QUBO, and higher order problems with constraints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197088901,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:00:39Z",
+            "owner": "jtiosue",
+            "repo": "qubovert",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chimera_embedding",
+          "description": "Algorithms to generate native-structured embeddings for Chimera graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58774598,
+            "language": "Python",
+            "last_commit": "2019-06-25T18:25:24Z",
+            "owner": "dwavesystems",
+            "repo": "chimera-embedding",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qqa",
+          "description": "GPU-parallel Quasi-Quantum Annealing toolkit for QUBO and Ising combinatorial optimisation, with PI-GNN / CPRA neural backends and a Simulated Annealing baseline, all under a single PyTorch API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933123083,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:39Z",
+            "owner": "Yuma-Ichikawa",
+            "repo": "QQA4CO",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dwavebinarycsp",
+          "description": "Map constraint satisfaction problems with binary variables to binary quadratic models.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 114060493,
+            "language": "Python",
+            "last_commit": "2025-03-18T12:51:17Z",
+            "owner": "dwavesystems",
+            "repo": "dwavebinarycsp",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "penaltymodel",
+          "description": "Utilities and interfaces for using penalty models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109449503,
+            "language": "Python",
+            "last_commit": "2025-08-26T16:26:42Z",
+            "owner": "dwavesystems",
+            "repo": "penaltymodel",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embedding_utilities",
+          "description": "Mapping samples between original and embedded graph.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 111716041,
+            "language": "Python",
+            "last_commit": "2018-03-06T00:43:30Z",
+            "owner": "dwavesystems",
+            "repo": "dwave_embedding_utilities",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro_client_sapi_dimod",
+          "description": "Dimod wrapper for the D-Wave Micro Client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 109191081,
+            "language": "Python",
+            "last_commit": "2018-02-21T22:32:38Z",
+            "owner": "dwavesystems",
+            "repo": "dwave_micro_client_dimod",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Quantum annealing"
+    },
+    {
+      "description": "C++\nHTML\nJulia\nPython\nQ#",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QuantumTomography.jl",
+          "description": "Julia package to perform quantum state and process tomography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37945466,
+            "language": "Julia",
+            "last_commit": "2026-04-16T20:19:50Z",
+            "owner": "BBN-Q",
+            "repo": "QuantumTomography.jl",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QAOA.jl",
+          "description": "Implementation the Quantum Approximate Optimization Algorithm (QAOA) in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 590984119,
+            "language": "Julia",
+            "last_commit": "2026-03-29T16:51:32Z",
+            "owner": "FZJ-PGI-12",
+            "repo": "QAOA.jl",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFermion",
+          "description": "Compiling and analyzing quantum algorithm for quantum chemistry simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104403768,
+            "language": "Python",
+            "last_commit": "2026-08-18T20:31:22Z",
+            "owner": "quantumlib",
+            "repo": "OpenFermion",
+            "stars": 1729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QPanda",
+          "description": "QPanda is a quantum computing framework that can be used to build, run, and optimize quantum algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136144680,
+            "language": "C++",
+            "last_commit": "2024-11-13T07:07:54Z",
+            "owner": "OriginQ",
+            "repo": "QPanda-2",
+            "stars": 1206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paddle Quantum",
+          "description": "Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264782838,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-24T14:00:48Z",
+            "owner": "PaddlePaddle",
+            "repo": "Quantum",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit Nature",
+          "description": "Quantum Chemistry including ground state, excited states and dipole moment calculations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 333498711,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:58:29Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-nature",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grove",
+          "description": "Quantum algorithms implemented using Rigetti's pyQuil.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 77098216,
+            "language": "Python",
+            "last_commit": "2021-12-02T19:36:56Z",
+            "owner": "rigetti",
+            "repo": "grove",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReCirq",
+          "description": "Modules for running quantum computing applications and experiments through Cirq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246951354,
+            "language": "Python",
+            "last_commit": "2026-07-17T19:58:47Z",
+            "owner": "quantumlib",
+            "repo": "ReCirq",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenQAOA",
+          "description": "Multi-backend SDK to create, customise and execute QAOA on NISQ devices and simulators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 482741192,
+            "language": "Python",
+            "last_commit": "2024-08-29T06:53:19Z",
+            "owner": "entropicalabs",
+            "repo": "openqaoa",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum TSP",
+          "description": "Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144535466,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-25T22:17:11Z",
+            "owner": "mstechly",
+            "repo": "quantum_tsp_tutorials",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantumFlow",
+          "description": "Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 155748412,
+            "language": "Python",
+            "last_commit": "2019-06-03T03:20:31Z",
+            "owner": "rigetti",
+            "repo": "quantumflow",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FermiLib",
+          "description": "Software for analyzing fermionic quantum simulation algorithms with ProjectQ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89900650,
+            "language": "Python",
+            "last_commit": "2018-05-04T08:32:34Z",
+            "owner": "ProjectQ-Framework",
+            "repo": "FermiLib",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QFog",
+          "description": "Framework for analyzing both classical and quantum Bayesian Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47056346,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-13T21:37:16Z",
+            "owner": "artiste-qb-net",
+            "repo": "quantum-fog",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VQF",
+          "description": "Implementation of Variational Quantum Factoring algorithm (in pyQuil)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181274943,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:09:12Z",
+            "owner": "mstechly",
+            "repo": "vqf",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum_Edward",
+          "description": "Python tools for supervised learning by Quantum Neural Networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132184889,
+            "language": "Python",
+            "last_commit": "2018-11-07T10:05:28Z",
+            "owner": "artiste-qb-net",
+            "repo": "Quantum_Edward",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QGrad",
+          "description": "Library to integrate automatic differentiation tools such as JAX with QuTiP and related quantum software packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270916977,
+            "language": "Python",
+            "last_commit": "2022-05-08T00:50:49Z",
+            "owner": "qgrad",
+            "repo": "qgrad",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyRiemann-qiskit",
+          "description": "Library for machine learning and quantum programming based on pyRiemann and Qiskit projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 410098026,
+            "language": "Python",
+            "last_commit": "2026-08-07T14:52:41Z",
+            "owner": "pyRiemann",
+            "repo": "pyRiemann-qiskit",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT QAO",
+          "description": "Automatic Framework for Solving Optimization Problems with Quantum Computers available via the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 797212996,
+            "language": "Python",
+            "last_commit": "2026-07-03T11:26:11Z",
+            "owner": "cda-tum",
+            "repo": "mqt-qao",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT QUBOMaker",
+          "description": "Automated QUBO formulation for optimization and pathfinding problems offering multiple encodings. Available via the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 719603057,
+            "language": "Python",
+            "last_commit": "2026-07-03T11:27:16Z",
+            "owner": "cda-tum",
+            "repo": "mqt-qubomaker",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arline Quantum",
+          "description": "Library with implementation of quantum gates and hardware, a part of Arline Benchmarks project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268369369,
+            "language": "Python",
+            "last_commit": "2024-01-01T23:13:44Z",
+            "owner": "ArlineQ",
+            "repo": "arline_quantum",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyZFS",
+          "description": "Package to compute zero-field-splitting tensors for molecules and spin quantum bits in semiconductors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241492388,
+            "language": "Python",
+            "last_commit": "2020-03-30T20:45:56Z",
+            "owner": "hema-ted",
+            "repo": "pyzfs",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adapt",
+          "description": "Algorithms for adaptive refinement of measurements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69179108,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-08T21:18:06Z",
+            "owner": "BBN-Q",
+            "repo": "Adapt",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boson Sampling",
+          "description": "Library to calculate interferometer output probabilities given Fock state inputs to help better understand Aaronson-Arkhipov Boson Sampling arXiv:1011.3245 [quant-ph]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 406613956,
+            "language": "Python",
+            "last_commit": "2021-10-06T00:55:35Z",
+            "owner": "IffTech",
+            "repo": "Boson-Sampling",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebMark",
+          "description": "Web platform for benchmarking quantum computing algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 331663432,
+            "language": "Python",
+            "last_commit": "2021-05-13T10:02:02Z",
+            "owner": "ohtu2021-kvantti",
+            "repo": "WebMark",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G/SG Morph",
+          "description": "Quantum annealing algorithms for Graph/Subgraph Isomorphism based on Calude et al.'s paper \"QUBO formulations for the graph isomorphism problem and related problems\" 10.1016/j.tcs.2017.04.016",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398696503,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-18T09:18:28Z",
+            "owner": "IffTech",
+            "repo": "GSG-Morph",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spin_qudit_tomography",
+          "description": "Code used in spin tomography using qudits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390431729,
+            "language": "Python",
+            "last_commit": "2021-11-11T20:11:20Z",
+            "owner": "perlinm",
+            "repo": "spin_qudit_tomography",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qudit Team",
+          "description": "Repository to extend Qiskit versatility to higher dimensional quantum states.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373976423,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-01T17:29:28Z",
+            "owner": "q-inho",
+            "repo": "QuditsTeam-1",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Quantum algorithms"
+    },
+    {
+      "description": "C++\nMathematica\nJulia\nPython\nRust\nCommon Lisp",
       "items": [
         {
           "node_type": "item",
@@ -44,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405970114,
             "language": "C++",
             "last_commit": "2026-08-18T14:51:43Z",
             "owner": "Quantinuum",
@@ -58,8 +2140,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602822750,
             "language": "Python",
-            "last_commit": "2026-08-18T23:50:10Z",
+            "last_commit": "2026-08-19T03:54:49Z",
             "owner": "PennyLaneAI",
             "repo": "catalyst",
             "stars": 232
@@ -72,6 +2155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59691022,
             "language": "C++",
             "last_commit": "2021-09-28T15:30:02Z",
             "owner": "epiqc",
@@ -86,8 +2170,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302778589,
             "language": "C++",
-            "last_commit": "2026-08-17T08:31:09Z",
+            "last_commit": "2026-08-19T12:03:25Z",
             "owner": "munich-quantum-toolkit",
             "repo": "qmap",
             "stars": 141
@@ -100,6 +2185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140888411,
             "language": "C++",
             "last_commit": "2026-07-16T18:14:31Z",
             "owner": "boschmitt",
@@ -114,8 +2200,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444882754,
             "language": "C++",
-            "last_commit": "2026-08-17T02:56:51Z",
+            "last_commit": "2026-08-19T11:47:08Z",
             "owner": "munich-quantum-toolkit",
             "repo": "syrec",
             "stars": 38
@@ -128,18 +2215,289 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451641763,
             "language": null,
             "last_commit": "2021-12-20T17:26:33Z",
             "owner": "ORNL-QCI",
             "repo": "qcor",
             "stars": 11
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit Terra",
+          "description": "Python library for quantum circuit rewriting and optimization (supported by IBM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83821669,
+            "language": "Python",
+            "last_commit": "2026-08-19T08:34:49Z",
+            "owner": "Qiskit",
+            "repo": "qiskit",
+            "stars": 7715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyZX",
+          "description": "Python library for quantum circuit rewriting and optimisation using the ZX-calculus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139429046,
+            "language": "OpenQASM",
+            "last_commit": "2026-08-16T10:50:58Z",
+            "owner": "zxcalc",
+            "repo": "pyzx",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mitiq",
+          "description": "Cross-platform, quantum error mitigation toolkit and compiler from Unitary Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236706881,
+            "language": "Python",
+            "last_commit": "2026-08-07T04:25:52Z",
+            "owner": "unitaryfoundation",
+            "repo": "mitiq",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qubiter",
+          "description": "Quantum compiler with Python wrapper for LAPACK's CS Decomposition to build a binary tree of matrices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54362420,
+            "language": "HTML",
+            "last_commit": "2023-12-25T20:23:29Z",
+            "owner": "artiste-qb-net",
+            "repo": "qubiter",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT Predictor",
+          "description": "RL-based compiler optimization. ML-based device selection. Available via the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467562687,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:15:11Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "predictor",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UCC",
+          "description": "Unitary Compiler Collection: frontend-agnostic open-source quantum compiler developed by Unitary Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 823263710,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:50:03Z",
+            "owner": "unitaryfoundation",
+            "repo": "ucc",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qlasskit",
+          "description": "Compiler from Python language to quantum circuits and binary quadratic models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 695168027,
+            "language": "Python",
+            "last_commit": "2026-01-03T11:55:19Z",
+            "owner": "dakk",
+            "repo": "qlasskit",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT IonShuttler",
+          "description": "Exact and heuristic scheduling to manage ion movement within trapped-ion hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617013825,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:24:29Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "ionshuttler",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arline Benchmarks",
+          "description": "Automated benchmarking platform for quantum compilers, quantum hardware and quantum algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268373046,
+            "language": "Python",
+            "last_commit": "2022-03-02T17:21:54Z",
+            "owner": "ArlineQ",
+            "repo": "arline_benchmarks",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QEDA",
+          "description": "Quantum electronic design automation software for optical circuits using QASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 386918999,
+            "language": "Java",
+            "last_commit": "2021-12-19T07:58:56Z",
+            "owner": "Spooky-Manufacturing",
+            "repo": "QEDA",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAT Circuits Engine",
+          "description": "Qiskit-based high-level quantum circuits synthesis engine for n-SAT problems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536809977,
+            "language": "HTML",
+            "last_commit": "2023-06-01T15:30:41Z",
+            "owner": "ohadlev77",
+            "repo": "sat-circuits-engine",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QGL2 Compiler",
+          "description": "Language compiler for imperative Quantum Gate Language (QGL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87845619,
+            "language": "Python",
+            "last_commit": "2021-12-26T21:40:03Z",
+            "owner": "BBN-Q",
+            "repo": "pyqgl2",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NchooseK",
+          "description": "Constraint-programming system that compiles to both circuit-model quantum computers and quantum annealers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383579370,
+            "language": "Python",
+            "last_commit": "2025-09-01T04:39:45Z",
+            "owner": "lanl",
+            "repo": "NchooseK",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit ZX transpiler",
+          "description": "Transpiler pass for Qiskit which uses ZX-calculus for circuit optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 719956001,
+            "language": "Python",
+            "last_commit": "2026-04-25T06:16:22Z",
+            "owner": "dlyongemallo",
+            "repo": "qiskit-zx-transpiler",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CleitonForge",
+          "description": "Differential fuzzer for quantum compilers and simulators (Rust + Python), with a shrinker and an exact-operator oracle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1288538317,
+            "language": "Rust",
+            "last_commit": "2026-08-19T04:48:12Z",
+            "owner": "cleitonaugusto",
+            "repo": "CleitonForge",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMRG",
+          "description": "Quantum error mitigation toolkit with ZNE, PEC, and CDR support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152199961,
+            "language": "Python",
+            "last_commit": "2026-07-07T09:54:18Z",
+            "owner": "FedorShind",
+            "repo": "EMRG",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TKET2",
+          "description": "Rewrite based toolkit for optimization of quantum programs (version 2 of the TKET quantum compiler).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 455633856,
+            "language": "Rust",
+            "last_commit": "2026-08-19T11:37:36Z",
+            "owner": "Quantinuum",
+            "repo": "tket2",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIFT",
+          "description": "Unified compiler framework for AI and quantum computing; its quantum front covers gate decomposition, noise-aware scheduling, qubit layout mapping, real qubit routing (SWAP + BFS), and OpenQASM 3.0 export. Published on crates.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1191733699,
+            "language": "Rust",
+            "last_commit": "2026-08-05T09:33:52Z",
+            "owner": "rustnew",
+            "repo": "Lift",
+            "stars": 7
+          }
         }
       ],
       "title": "Quantum compilers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83821737,
             "language": "Python",
             "last_commit": "2026-08-17T12:14:51Z",
             "owner": "openqasm",
@@ -162,8 +2521,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78470807,
             "language": "Python",
-            "last_commit": "2026-08-18T23:40:18Z",
+            "last_commit": "2026-08-19T12:20:23Z",
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1497
@@ -176,6 +2536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62914711,
             "language": "Python",
             "last_commit": "2021-02-28T01:25:34Z",
             "owner": "lanl",
@@ -190,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154739502,
             "language": "C++",
             "last_commit": "2022-10-18T15:01:46Z",
             "owner": "XanaduAI",
@@ -210,6 +2572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241307936,
             "language": "Python",
             "last_commit": "2026-08-18T05:21:25Z",
             "owner": "qiboteam",
@@ -224,6 +2587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156435579,
             "language": "Python",
             "last_commit": "2025-02-25T10:17:48Z",
             "owner": "qucontrol",
@@ -238,6 +2602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300285582,
             "language": "Python",
             "last_commit": "2024-03-05T12:47:05Z",
             "owner": "q-optimize",
@@ -252,6 +2617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331922070,
             "language": "Jupyter Notebook",
             "last_commit": "2021-12-22T05:54:47Z",
             "owner": "baidu",
@@ -266,6 +2632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1277538505,
             "language": "Python",
             "last_commit": "2026-07-01T19:49:07Z",
             "owner": "PureStateLabs",
@@ -277,7 +2644,7 @@
       "title": "Quantum control"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -286,6 +2653,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164958936,
             "language": "C++",
             "last_commit": "2024-02-22T23:16:57Z",
             "owner": "scikit-quant",
@@ -300,6 +2668,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764972452,
             "language": "Python",
             "last_commit": "2024-06-18T12:07:48Z",
             "owner": "NeuralDreamResearch",
@@ -311,7 +2680,133 @@
       "title": "Quantum interoperability"
     },
     {
-      "description": "C",
+      "description": "C++\nJulia\nPython",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyMatching",
+          "description": "Python package for decoding quantum error correcting codes with minimum-weight perfect matching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220449450,
+            "language": "C++",
+            "last_commit": "2026-05-22T05:59:35Z",
+            "owner": "oscarhiggott",
+            "repo": "PyMatching",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT QECC",
+          "description": "Synthesis of fault-tolerant circuits. Decoders. Automatic Application of error correcting codes. Available via the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 483936750,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:17:36Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "qecc",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit Experiments",
+          "description": "Python package for quantum error correction experiments (supported by IBM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342009662,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:30:41Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-experiments",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tesseract Decoder",
+          "description": "Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946710540,
+            "language": "C++",
+            "last_commit": "2026-08-18T23:38:58Z",
+            "owner": "quantumlib",
+            "repo": "tesseract-decoder",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qecsim",
+          "description": "Python package for simulating quantum error correction using stabilizer codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336911658,
+            "language": "Python",
+            "last_commit": "2021-08-05T06:44:55Z",
+            "owner": "qecsim",
+            "repo": "qecsim",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qsurface",
+          "description": "Python package for simulation and visualization of quantum error-correction on surface codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178845138,
+            "language": "Python",
+            "last_commit": "2026-08-04T02:36:10Z",
+            "owner": "watermarkhu",
+            "repo": "qsurface",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromobius",
+          "description": "Python implementation of a \"mobius decoder\" for color codes used in quantum error correction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705156480,
+            "language": "Python",
+            "last_commit": "2026-08-01T06:46:31Z",
+            "owner": "quantumlib",
+            "repo": "chromobius",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoq-qec",
+          "description": "Multi-code fault-tolerant QEC resource estimator for arbitrary Qiskit circuits (Surface Code, Floquet Code, Bacon-Shor, Steane).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1298401243,
+            "language": "Python",
+            "last_commit": "2026-08-19T02:14:29Z",
+            "owner": "Ronaldoengenhariadacomputacao",
+            "repo": "autoq-qec",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Quantum error correction"
+    },
+    {
+      "description": "C\nPython",
       "items": [
         {
           "node_type": "item",
@@ -320,6 +2815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65514205,
             "language": "C",
             "last_commit": "2026-08-18T00:50:39Z",
             "owner": "open-quantum-safe",
@@ -334,6 +2830,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 165149670,
             "language": "C",
             "last_commit": "2026-08-04T06:48:53Z",
             "owner": "PQClean",
@@ -348,6 +2845,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66578799,
             "language": "C",
             "last_commit": "2026-01-05T13:58:03Z",
             "owner": "open-quantum-safe",
@@ -362,6 +2860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113904471,
             "language": "C",
             "last_commit": "2026-08-07T18:19:16Z",
             "owner": "open-quantum-safe",
@@ -376,18 +2875,295 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796816120,
             "language": "C++",
             "last_commit": "2025-03-14T21:55:47Z",
             "owner": "terra-quantum-public",
             "repo": "tq42-pqc-oss",
             "stars": 52
           }
+        },
+        {
+          "node_type": "item",
+          "title": "QRL",
+          "description": "Quantum Resistant Ledger utilizing hash-based one-time merkle tree signature scheme instead of ECDSA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71055814,
+            "language": "Python",
+            "last_commit": "2026-08-08T20:26:15Z",
+            "owner": "theQRL",
+            "repo": "QRL",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto-Vinaigrette",
+          "description": "Quantum-resistant asymmetric key generation tool for digital signatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126040611,
+            "language": "Python",
+            "last_commit": "2019-06-02T18:17:08Z",
+            "owner": "aditisrinivas97",
+            "repo": "Crypto-Vinaigrette",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qash-QKDC",
+          "description": "Hashing algorithms/circuits powered by quantum operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744684372,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-02T15:28:21Z",
+            "owner": "TimeMelt",
+            "repo": "qash-qkdc",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qashchain",
+          "description": "Quantum blockchain based on qash-qkdc circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 761305348,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-13T16:59:00Z",
+            "owner": "TimeMelt",
+            "repo": "qashchain",
+            "stars": 0
+          }
         }
       ],
       "title": "Quantum and post-quantum cryptography"
     },
     {
-      "description": "Board games",
+      "description": "Julia\nMatlab\nPython",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ARTIQ",
+          "description": "Next-generation control system for quantum information experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 20161671,
+            "language": "Python",
+            "last_commit": "2026-01-18T10:40:16Z",
+            "owner": "m-labs",
+            "repo": "artiq",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QCoDeS",
+          "description": "Python-based data acquisition framework for quantum experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37137879,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:11:35Z",
+            "owner": "microsoft",
+            "repo": "Qcodes",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiskit Metal",
+          "description": "Quantum hardware design and analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 312331045,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T05:32:07Z",
+            "owner": "qiskit-community",
+            "repo": "qiskit-metal",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scqubits",
+          "description": "Simulating superconducting qubits, obtaining energy spectra, plotting energy levels and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58155179,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:36:06Z",
+            "owner": "scqubits",
+            "repo": "scqubits",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyEPR",
+          "description": "Automated Python module for the design and quantization of Josephson quantum circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101073856,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:24:52Z",
+            "owner": "zlatko-minev",
+            "repo": "pyEPR",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRPL",
+          "description": "Turn your RedPitaya into a powerful DSP device, suitable as a digital lockbox and measurement device in quantum optics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58811185,
+            "language": "HTML",
+            "last_commit": "2026-08-19T07:36:46Z",
+            "owner": "pyrpl-fpga",
+            "repo": "pyrpl",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QTT",
+          "description": "Quantum Technology Toolbox is a framework for the tuning and calibration of quantum dots and spin qubits.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 56611944,
+            "language": "Python",
+            "last_commit": "2023-12-15T11:18:12Z",
+            "owner": "QuTech-Delft",
+            "repo": "qtt",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qupulse",
+          "description": "Quantum computing pulse parametrization and sequencing framework (formerly qc-toolkit).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29915259,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:44:50Z",
+            "owner": "qutech",
+            "repo": "qupulse",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QFlow-lite",
+          "description": "Machine Learning tools for autotuning quantum dot experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125596760,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-22T16:14:56Z",
+            "owner": "jpzwolak",
+            "repo": "QFlow-suite",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT Qudits",
+          "description": "A framework for research and education for mixed-dimensional qudit quantum computing available via the [] Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702925690,
+            "language": "Python",
+            "last_commit": "2026-08-19T11:30:08Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "qudits",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QGL",
+          "description": "Domain-specific language embedded in Python for specifying pulse sequences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50136236,
+            "language": "Python",
+            "last_commit": "2026-05-21T18:35:58Z",
+            "owner": "BBN-Q",
+            "repo": "QGL",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QEDA",
+          "description": "Quantum Electronics Design Automation - The RTL of Quantum Computing!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 386918999,
+            "language": "Java",
+            "last_commit": "2021-12-19T07:58:56Z",
+            "owner": "Spooky-Manufacturing",
+            "repo": "QEDA",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OLSQ",
+          "description": "OpenQASM package to perform optimal layout synthesis for quantum computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 284805526,
+            "language": "OpenQASM",
+            "last_commit": "2022-07-23T15:24:23Z",
+            "owner": "qu-tan-um",
+            "repo": "OLSQ",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT DASQA",
+          "description": "Framework to encapsulate application-driven superconducting architecture design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625173763,
+            "language": "Python",
+            "last_commit": "2025-03-14T20:46:17Z",
+            "owner": "cda-tum",
+            "repo": "mqt-dasqa",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Experimental quantum computing"
+    },
+    {
+      "description": "Board games\nC++\nF#\nPython\nPython & JavaScript\nJavaScript\nScala",
       "items": [
         {
           "node_type": "item",
@@ -396,6 +3172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116174091,
             "language": null,
             "last_commit": "2023-06-30T16:22:40Z",
             "owner": "Entanglion",
@@ -410,18 +3187,452 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481422186,
             "language": "OpenQASM",
             "last_commit": "2026-06-02T00:17:31Z",
             "owner": "quantumlib",
             "repo": "unitary",
             "stars": 43
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Awesomeness",
+          "description": "Simple puzzles to benchmark various quantum processor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100254111,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-16T07:42:06Z",
+            "owner": "decodoku",
+            "repo": "A_Game_to_Benchmark_Quantum_Computers",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Catsweeper",
+          "description": "Quantum game loosely based on Minesweeper Flag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145175397,
+            "language": "Python",
+            "last_commit": "2022-07-16T01:29:01Z",
+            "owner": "desireevl",
+            "repo": "quantum-catsweeper",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Battleships",
+          "description": "Playing battleships with quantum measurements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120037035,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-02-02T22:15:06Z",
+            "owner": "quantumjim",
+            "repo": "Battleships_with_complementary_measurements",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bloqit",
+          "description": "Tiny qubit duel for your smart phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233446358,
+            "language": "Python",
+            "last_commit": "2020-02-01T12:50:15Z",
+            "owner": "kelzheng",
+            "repo": "bloqit",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SudoQ",
+          "description": "Sudoku solver that leverages a D-Wave Quantum Annealer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187465528,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-07T16:57:48Z",
+            "owner": "subwayHareArmy",
+            "repo": "SudoQ",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Nematode",
+          "description": "C. elegans navigation simulation using quantum variational circuits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969151233,
+            "language": "Python",
+            "last_commit": "2026-07-25T10:48:07Z",
+            "owner": "SyntheticBrains",
+            "repo": "nematode",
+            "stars": 4
+          }
         }
       ],
       "title": "Quantum fun"
     },
     {
-      "description": "",
+      "description": "C#\nC++\nJava\nMathematica\nPython\nTypeScript\nOthers",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MQT QCEC",
+          "description": "Equivalence checking of quantum circuits. Verifying compilation flows. Available via the package and fully compatible with Qiskit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231376804,
+            "language": "C++",
+            "last_commit": "2026-08-19T12:06:07Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "qcec",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT QuSAT",
+          "description": "Encoding and equivalence checking of Clifford circuits using satisfiablity testing (SAT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 463532048,
+            "language": "C++",
+            "last_commit": "2026-08-17T03:35:46Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "qusat",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT DDVis",
+          "description": "Installation-free web-tool that visualizes quantum decision diagrams for classical simulation and verification. Hosted at https://www.cda.cit.tum.de/app/ddvis/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302662229,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T20:30:06Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "ddvis",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT Debugger",
+          "description": "Debugging quantum circuits with IDE integration based on DAP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811769795,
+            "language": "C++",
+            "last_commit": "2026-08-19T11:45:25Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "debugger",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Covalent",
+          "description": "Tool for running high performance/quantum workflows on advanced computing hardwares.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 424247027,
+            "language": "Python",
+            "last_commit": "2026-08-17T17:10:19Z",
+            "owner": "AgnostiqHQ",
+            "repo": "covalent",
+            "stars": 867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toqito",
+          "description": "Framework to study problems pertaining to entanglement theory, nonlocal games, and other aspects of quantum information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235493396,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:24:00Z",
+            "owner": "vprusso",
+            "repo": "toqito",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT Bench",
+          "description": "Quantum circuit benchmark suite providing benchmark algorithms for different compilation levels. Web application hosted at https://www.cda.cit.tum.de/mqtbench/. Also available via the Python package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 424989951,
+            "language": "Python",
+            "last_commit": "2026-08-19T08:48:37Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "bench",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZXLive",
+          "description": "GUI editor for ZX diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624835089,
+            "language": "Python",
+            "last_commit": "2026-08-16T22:46:45Z",
+            "owner": "zxcalc",
+            "repo": "zxlive",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orqviz",
+          "description": "Library to easily visualize the loss landscape of variational quantum algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 413763217,
+            "language": "Python",
+            "last_commit": "2023-12-18T15:54:18Z",
+            "owner": "zapata-engineering",
+            "repo": "orqviz",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QUARK",
+          "description": "Framework for Quantum Computing Application Benchmarking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 464887403,
+            "language": "Python",
+            "last_commit": "2025-07-30T15:23:07Z",
+            "owner": "QUARK-framework",
+            "repo": "QUARK",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQT Problem Solver",
+          "description": "Automated Framework for Realizing Quantum Computing Solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504775700,
+            "language": "Python",
+            "last_commit": "2026-08-17T03:52:59Z",
+            "owner": "munich-quantum-toolkit",
+            "repo": "problemsolver",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QRAND",
+          "description": "Multiplatform and multiprotocol quantum random number generator for arbitrary probability distributions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303870287,
+            "language": "Python",
+            "last_commit": "2021-11-27T03:20:12Z",
+            "owner": "pedrorrivero",
+            "repo": "qrand",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulsemaker",
+          "description": "Python widget library for designing pulses and pulse schedules for quantum computing hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320095766,
+            "language": "Python",
+            "last_commit": "2021-12-12T23:57:36Z",
+            "owner": "adgt",
+            "repo": "pulsemaker",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyQuirk",
+          "description": "Python widget for Quirk to be used in Jupyter notebooks, JupyterLab, and the IPython kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313829973,
+            "language": "HTML",
+            "last_commit": "2022-05-19T21:35:40Z",
+            "owner": "adgt",
+            "repo": "pyQuirk",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IBM Q bot",
+          "description": "Bot for Slack and Telegram to monitor the load of IBM Q quantum computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133181253,
+            "language": "Python",
+            "last_commit": "2018-11-30T20:02:04Z",
+            "owner": "RQC-QApp",
+            "repo": "QuantumComputingBot",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantumGraphs",
+          "description": "Grow and study random graphs by a continuous, randomly collapsing quantum walk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236205746,
+            "language": "Python",
+            "last_commit": "2020-08-03T15:28:13Z",
+            "owner": "ziofil",
+            "repo": "QuantumGraphs",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arline Quantum",
+          "description": "Arline Quantum is an open-source library providing basic functionality for creating and manipulating quantum circuits. It also contains a list of mock quantum hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268369369,
+            "language": "Python",
+            "last_commit": "2024-01-01T23:13:44Z",
+            "owner": "ArlineQ",
+            "repo": "arline_quantum",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qonduit",
+          "description": "Python library with visualization tools and workflows for quantum computing that utilize the best of what’s available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319677920,
+            "language": "Python",
+            "last_commit": "2021-03-22T04:41:00Z",
+            "owner": "adgt",
+            "repo": "qonduit",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PauLie",
+          "description": "Library for studying algebraic properties of quantum systems, in particular the dynamical Lie algebra of Pauli string generated dynamics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 820614160,
+            "language": "Python",
+            "last_commit": "2026-08-07T06:52:32Z",
+            "owner": "QPauLie",
+            "repo": "PauLie",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QXMT",
+          "description": "Experiment management tool for quantum computing and quantum machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 824014826,
+            "language": "Python",
+            "last_commit": "2026-06-12T10:09:07Z",
+            "owner": "Qyusu",
+            "repo": "qxmt",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gridsynth-Python-wrapper",
+          "description": "Wrapper for using Gridsynth in Python/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 518076801,
+            "language": "Python",
+            "last_commit": "2022-07-27T18:30:28Z",
+            "owner": "InfamousPlatypus",
+            "repo": "Gridsynth-Python-wrapper",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Qlro",
+              "description": "Quantum device selection that ranks tracked backends for a given workload via the WCPP framework, using third-party Metriq benchmarks plus a community-fed (predicted, observed) accuracy dataset (qlro.io; paper).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1224755983,
+                "language": null,
+                "last_commit": "2026-04-29T16:03:13Z",
+                "owner": "linsletoh",
+                "repo": "qlro",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Quantum tools"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -430,6 +3641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371996111,
             "language": "Python",
             "last_commit": "2021-08-17T00:59:34Z",
             "owner": "eperrier",
@@ -444,6 +3656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185611576,
             "language": "Python",
             "last_commit": "2026-08-03T01:18:23Z",
             "owner": "quprep",
@@ -464,6 +3677,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99244384,
             "language": "Jupyter Notebook",
             "last_commit": "2023-08-21T20:29:53Z",
             "owner": "Qiskit",
@@ -478,6 +3692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66118414,
             "language": "Python",
             "last_commit": "2021-06-04T17:57:44Z",
             "owner": "adamisntdead",
@@ -492,6 +3707,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 137125898,
             "language": "Python",
             "last_commit": "2021-11-26T13:57:45Z",
             "owner": "qiskit-community",
@@ -506,6 +3722,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 161261721,
             "language": "Python",
             "last_commit": "2022-06-30T18:28:46Z",
             "owner": "qiskit-community",
@@ -520,6 +3737,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 111528134,
             "language": "JavaScript",
             "last_commit": "2019-09-08T16:19:40Z",
             "owner": "qiskit-community",
@@ -534,6 +3752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275711975,
             "language": "Python",
             "last_commit": "2022-05-02T11:52:04Z",
             "owner": "Spooky-Manufacturing",
@@ -548,6 +3767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14285642,
             "language": "Haskell",
             "last_commit": "2015-08-31T15:27:44Z",
             "owner": "thephoeron",
@@ -562,6 +3782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31028556,
             "language": "Mathematica",
             "last_commit": "2018-05-30T15:57:25Z",
             "owner": "QuantumUtils",
@@ -576,6 +3797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14285415,
             "language": "Common Lisp",
             "last_commit": "2017-02-17T16:14:41Z",
             "owner": "thephoeron",
@@ -590,6 +3812,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 104927151,
             "language": "Python",
             "last_commit": "2019-02-07T21:13:05Z",
             "owner": "rigetti",
@@ -604,6 +3827,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96488205,
             "language": "C++",
             "last_commit": "2018-01-13T18:48:31Z",
             "owner": "aviggiano",
@@ -618,6 +3842,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127537438,
             "language": "Python",
             "last_commit": "2023-02-26T20:44:17Z",
             "owner": "dabacon",
@@ -632,6 +3857,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3932434,
             "language": "Python",
             "last_commit": "2017-06-06T17:09:54Z",
             "owner": "BBN-Q",
@@ -646,6 +3872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138441731,
             "language": "Java",
             "last_commit": "2018-07-23T03:05:53Z",
             "owner": "QCHackers",
@@ -660,6 +3887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76964771,
             "language": "Julia",
             "last_commit": "2023-12-19T14:44:37Z",
             "owner": "BBN-Q",
@@ -674,6 +3902,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85623884,
             "language": "OCaml",
             "last_commit": "2017-07-27T01:20:16Z",
             "owner": "dillanchang",
@@ -688,6 +3917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4208219,
             "language": "Java",
             "last_commit": "2012-05-05T18:05:18Z",
             "owner": "jeffwass",
@@ -702,6 +3932,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 106753632,
             "language": "Python",
             "last_commit": "2018-02-21T20:44:27Z",
             "owner": "dwavesystems",
@@ -716,6 +3947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126889357,
             "language": "Java",
             "last_commit": "2018-08-07T08:34:20Z",
             "owner": "gbanegas",
@@ -730,6 +3962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3932107,
             "language": "Python",
             "last_commit": "2014-02-14T03:31:49Z",
             "owner": "BBN-Q",
@@ -744,6 +3977,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71583018,
             "language": "Python",
             "last_commit": "2023-12-07T06:27:46Z",
             "owner": "BBN-Q",
@@ -758,6 +3992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29597153,
             "language": "C++",
             "last_commit": "2015-09-18T18:32:29Z",
             "owner": "QCT-IQC",
@@ -772,6 +4007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29597213,
             "language": "Haskell",
             "last_commit": "2013-08-22T06:53:49Z",
             "owner": "QCT-IQC",
@@ -786,6 +4022,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47784613,
             "language": "Python",
             "last_commit": "2017-05-28T18:55:56Z",
             "owner": "wintershammer",
@@ -800,6 +4037,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32536966,
             "language": "Go",
             "last_commit": "2024-04-02T17:39:05Z",
             "owner": "cco3",
@@ -809,22 +4047,13 @@
         }
       ],
       "title": "Abandoned projects"
-    },
-    {
-      "description": "See the contribution guidelines.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "To the extent possible under law, the Quantum Open Source Foundation has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:51:03.803Z",
+    "last_updated": "2026-08-19T12:48:39.059Z",
     "original_repository": "qosf/awesome-quantum-software",
-    "original_repository_sha": "41f0680d4050961d79f05c11b433c64a46fef728",
+    "original_repository_id": 131035472,
+    "original_repository_sha": "5eac22830c1dcda074b8b09992480be8a8266760",
     "enhanced_repository": "enhansome/enhansome-quantum-software",
     "enhanced_repository_description": null,
     "title": "Awesome Open-Source Quantum Software Projects with stars"
