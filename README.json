@@ -12,7 +12,7 @@
             "archived": false,
             "id": 614026597,
             "language": "C++",
-            "last_commit": "2026-08-24T13:57:36Z",
+            "last_commit": "2026-08-24T23:48:23Z",
             "owner": "NVIDIA",
             "repo": "cuda-quantum",
             "stars": 1118
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 614026597,
             "language": "C++",
-            "last_commit": "2026-08-24T13:57:36Z",
+            "last_commit": "2026-08-24T23:48:23Z",
             "owner": "NVIDIA",
             "repo": "cuda-quantum",
             "stars": 1118
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 221583289,
             "language": "Python",
-            "last_commit": "2026-08-21T20:26:43Z",
+            "last_commit": "2026-08-24T16:12:14Z",
             "owner": "amazon-braket",
             "repo": "amazon-braket-sdk-python",
             "stars": 373
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 632066325,
             "language": "Python",
-            "last_commit": "2026-08-24T13:16:29Z",
+            "last_commit": "2026-08-24T20:36:14Z",
             "owner": "eclipse-qrisp",
             "repo": "Qrisp",
             "stars": 289
@@ -606,7 +606,7 @@
             "last_commit": "2026-08-12T17:02:22Z",
             "owner": "unitaryfoundation",
             "repo": "qrack",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -618,7 +618,7 @@
             "archived": false,
             "id": 239731195,
             "language": "C++",
-            "last_commit": "2026-08-24T01:38:02Z",
+            "last_commit": "2026-08-24T23:39:53Z",
             "owner": "munich-quantum-toolkit",
             "repo": "ddsim",
             "stars": 161
@@ -891,7 +891,7 @@
             "last_commit": "2025-11-04T07:32:27Z",
             "owner": "HaeffnerLab",
             "repo": "IonSim.jl",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "last_commit": "2026-08-01T21:13:41Z",
             "owner": "Budapest-Quantum-Computing-Group",
             "repo": "piquasso",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -1416,7 +1416,7 @@
             "last_commit": "2026-08-24T08:34:24Z",
             "owner": "tatopenn-cell",
             "repo": "Dense-Evolution",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -1926,7 +1926,7 @@
             "archived": false,
             "id": 104403768,
             "language": "Python",
-            "last_commit": "2026-08-18T20:31:22Z",
+            "last_commit": "2026-08-24T18:24:49Z",
             "owner": "quantumlib",
             "repo": "OpenFermion",
             "stars": 1730
@@ -2094,7 +2094,7 @@
             "last_commit": "2026-04-13T17:09:12Z",
             "owner": "mstechly",
             "repo": "vqf",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -2337,10 +2337,10 @@
             "archived": false,
             "id": 602822750,
             "language": "Python",
-            "last_commit": "2026-08-24T14:01:22Z",
+            "last_commit": "2026-08-24T23:19:13Z",
             "owner": "PennyLaneAI",
             "repo": "catalyst",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -2367,7 +2367,7 @@
             "archived": false,
             "id": 302778589,
             "language": "C++",
-            "last_commit": "2026-08-24T08:48:58Z",
+            "last_commit": "2026-08-24T23:25:39Z",
             "owner": "munich-quantum-toolkit",
             "repo": "qmap",
             "stars": 141
@@ -2397,7 +2397,7 @@
             "archived": false,
             "id": 444882754,
             "language": "C++",
-            "last_commit": "2026-08-24T02:52:46Z",
+            "last_commit": "2026-08-24T23:40:31Z",
             "owner": "munich-quantum-toolkit",
             "repo": "syrec",
             "stars": 38
@@ -2460,7 +2460,7 @@
             "last_commit": "2026-08-24T13:19:45Z",
             "owner": "Qiskit",
             "repo": "qiskit",
-            "stars": 7738
+            "stars": 7740
           }
         },
         {
@@ -2475,7 +2475,7 @@
             "last_commit": "2026-08-24T08:20:29Z",
             "owner": "zxcalc",
             "repo": "pyzx",
-            "stars": 540
+            "stars": 539
           }
         },
         {
@@ -2517,7 +2517,7 @@
             "archived": false,
             "id": 467562687,
             "language": "Python",
-            "last_commit": "2026-08-24T13:26:29Z",
+            "last_commit": "2026-08-24T23:46:27Z",
             "owner": "munich-quantum-toolkit",
             "repo": "predictor",
             "stars": 87
@@ -2532,7 +2532,7 @@
             "archived": false,
             "id": 823263710,
             "language": "Python",
-            "last_commit": "2026-08-17T18:50:03Z",
+            "last_commit": "2026-08-24T17:14:06Z",
             "owner": "unitaryfoundation",
             "repo": "ucc",
             "stars": 79
@@ -2697,7 +2697,7 @@
             "archived": false,
             "id": 455633856,
             "language": "Rust",
-            "last_commit": "2026-08-21T16:33:52Z",
+            "last_commit": "2026-08-24T16:04:16Z",
             "owner": "Quantinuum",
             "repo": "tket2",
             "stars": 59
@@ -2967,10 +2967,10 @@
             "archived": false,
             "id": 946710540,
             "language": "C++",
-            "last_commit": "2026-08-22T21:56:29Z",
+            "last_commit": "2026-08-24T23:01:36Z",
             "owner": "quantumlib",
             "repo": "tesseract-decoder",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -3027,7 +3027,7 @@
             "archived": false,
             "id": 342009662,
             "language": "Python",
-            "last_commit": "2026-08-12T13:30:41Z",
+            "last_commit": "2026-08-24T23:47:10Z",
             "owner": "qiskit-community",
             "repo": "qiskit-experiments",
             "stars": 196
@@ -3042,10 +3042,10 @@
             "archived": false,
             "id": 946710540,
             "language": "C++",
-            "last_commit": "2026-08-22T21:56:29Z",
+            "last_commit": "2026-08-24T23:01:36Z",
             "owner": "quantumlib",
             "repo": "tesseract-decoder",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -3072,7 +3072,7 @@
             "archived": false,
             "id": 178845138,
             "language": "Python",
-            "last_commit": "2026-08-04T02:36:10Z",
+            "last_commit": "2026-08-24T21:55:49Z",
             "owner": "watermarkhu",
             "repo": "qsurface",
             "stars": 81
@@ -3696,7 +3696,7 @@
             "archived": false,
             "id": 231376804,
             "language": "C++",
-            "last_commit": "2026-08-24T02:22:57Z",
+            "last_commit": "2026-08-24T23:39:53Z",
             "owner": "munich-quantum-toolkit",
             "repo": "qcec",
             "stars": 117
@@ -3711,7 +3711,7 @@
             "archived": false,
             "id": 463532048,
             "language": "C++",
-            "last_commit": "2026-08-24T02:42:34Z",
+            "last_commit": "2026-08-24T23:39:52Z",
             "owner": "munich-quantum-toolkit",
             "repo": "qusat",
             "stars": 28
@@ -3741,7 +3741,7 @@
             "archived": false,
             "id": 811769795,
             "language": "C++",
-            "last_commit": "2026-08-24T00:47:24Z",
+            "last_commit": "2026-08-24T23:39:54Z",
             "owner": "munich-quantum-toolkit",
             "repo": "debugger",
             "stars": 21
@@ -3816,7 +3816,7 @@
             "archived": false,
             "id": 424989951,
             "language": "Python",
-            "last_commit": "2026-08-24T14:04:18Z",
+            "last_commit": "2026-08-24T15:31:59Z",
             "owner": "munich-quantum-toolkit",
             "repo": "bench",
             "stars": 127
@@ -4491,7 +4491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:26.251Z",
+    "last_updated": "2026-08-24T23:50:46.577Z",
     "original_repository": "qosf/awesome-quantum-software",
     "original_repository_id": 131035472,
     "original_repository_sha": "2f6600b60a72ed3506c7fb39edd139f42bebb42f",
