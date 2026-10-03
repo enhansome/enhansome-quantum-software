@@ -46,7 +46,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **C++**
 
-* [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) ⭐ 1,151 | 🐛 544 | 🌐 C++ | 📅 2026-10-03 - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
+* [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) ⭐ 1,151 | 🐛 546 | 🌐 C++ | 📅 2026-10-03 - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
 * [qpp](https://github.com/softwareQinc/qpp) ⭐ 675 | 🐛 2 | 🌐 C++ | 📅 2026-07-20 - Quantum++ is a modern C++ general purpose quantum computing library, composed solely of template header files.
 * [staq](https://github.com/softwareqinc/staq) ⭐ 186 | 🐛 9 | 🌐 OpenQASM | 📅 2026-02-22 - Full stack quantum processing toolkit ([arXiv paper](https://arxiv.org/abs/1912.06070)).
 * [avaloni](https://github.com/avalon-lang/avaloni) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2018-12-16 - Programming language (interpreter) for classical-quantum hybrid computers.
@@ -59,9 +59,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 
-* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,076 | 🐛 123 | 🌐 Python | 📅 2026-10-02 - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,077 | 🐛 123 | 🌐 Python | 📅 2026-10-02 - Framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 * [Forest](https://github.com/rigetticomputing/pyquil) ⭐ 1,501 | 🐛 240 | 🌐 Python | 📅 2026-09-30 - [Rigetti](https://www.rigetti.com/)'s software library for writing, simulating, compiling and executing quantum programs.
-* [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) ⭐ 1,151 | 🐛 544 | 🌐 C++ | 📅 2026-10-03 - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
+* [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) ⭐ 1,151 | 🐛 546 | 🌐 C++ | 📅 2026-10-03 - Platform for accelerated quantum-classical applications on GPUs, CPUs and QPUs.
 * [ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) ⭐ 976 | 🐛 42 | 🌐 Python | 📅 2026-09-28 - Hardware-agnostic framework with compiler and simulator with emulation capabilities.
 * [Strawberry Fields](https://github.com/xanaduai/strawberryfields) ⚠️ Archived - [Xanadu](https://www.xanadu.ai)'s software library for photonic quantum computing.
 * [Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) ⭐ 540 | 🐛 27 | 🌐 Python | 📅 2026-09-16 - [D-Wave System](https://www.dwavesys.com/home)'s suite of tools for solving hard problems with quantum computers.
@@ -126,10 +126,10 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 * [Quantum++](https://github.com/softwareqinc/qpp) ⭐ 675 | 🐛 2 | 🌐 C++ | 📅 2026-07-20 - High-performance general purpose quantum simulator (can simulate d-dimensional qudits) ([paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073)).
 * [Intel Quantum Simulator](https://github.com/intel/intel-qs) ⭐ 264 | 🐛 18 | 🌐 C++ | 📅 2026-09-18 - Distributed qubit register quantum simulator using OpenMP and MPI.
 * [Qrack](https://github.com/vm6502q/qrack) ⭐ 231 | 🐛 11 | 🌐 C++ | 📅 2026-09-28 - Comprehensive qubit and gate implementation for developing universal virtual quantum processors.
-* [MQT DDSIM](https://github.com/cda-tum/mqt-ddsim) ⭐ 162 | 🐛 10 | 🌐 C++ | 📅 2026-10-01 - Quantum circuit simulator using decision diagrams as a datastructure. Python interface and Qiskit backend via the [`mqt.ddsim`](https://pypi.org/p/mqt.ddsim) Python package.
+* [MQT DDSIM](https://github.com/cda-tum/mqt-ddsim) ⭐ 162 | 🐛 10 | 🌐 C++ | 📅 2026-10-03 - Quantum circuit simulator using decision diagrams as a datastructure. Python interface and Qiskit backend via the [`mqt.ddsim`](https://pypi.org/p/mqt.ddsim) Python package.
 * [PennyLane Lightning](https://github.com/PennyLaneAI/pennylane-lightning) ⭐ 146 | 🐛 39 | 🌐 C++ | 📅 2026-10-02 - Fast state-vector simulator written in C++. GPU support. Python interface via [PennyLane](https://pennylane.ai).
 * [tweedledum](https://github.com/boschmitt/tweedledum) ⭐ 109 | 🐛 26 | 🌐 C++ | 📅 2026-07-16 - Library for synthesis, compilation, and optimization of quantum circuits.
-* [QCSim](https://github.com/aromanro/QCSim) ⭐ 108 | 🐛 2 | 🌐 C++ | 📅 2026-10-02 - Quantum computing simulator with many algorithms as examples and tests ([blog post](https://compphys.go.ro/quantum-computing-simulator/)).
+* [QCSim](https://github.com/aromanro/QCSim) ⭐ 108 | 🐛 2 | 🌐 C++ | 📅 2026-10-03 - Quantum computing simulator with many algorithms as examples and tests ([blog post](https://compphys.go.ro/quantum-computing-simulator/)).
 * [Huawei HiQsimulator](https://github.com/Huawei-HiQ/HiQsimulator) ⚠️ Archived - Single-amplitude, Full-amplitude and Error-correction circuit simulation engine.
 * [QCEAD](https://github.com/llens/QuantumComputingEvolutionaryAlgorithmDesign) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-05-19 - C++ program to both simulate a quantum computer and use parallel evolutionary techniques to design algorithms.
 * [QPlayer](https://github.com/eQuantumOS/QPlayer) ⭐ 12 | 🐛 0 | 🌐 C++ | 📅 2025-09-15 - Light-weight, scalable and fast quantum Schrödinger simulator ([paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0442)).
@@ -174,14 +174,14 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 
-* [Stim](https://github.com/quantumlib/Stim) ⭐ 828 | 🐛 97 | 🌐 C++ | 📅 2026-09-22 - Fast stabilizer circuit simulator.
+* [Stim](https://github.com/quantumlib/Stim) ⭐ 829 | 🐛 97 | 🌐 C++ | 📅 2026-09-22 - Fast stabilizer circuit simulator.
 * [qsim](https://github.com/quantumlib/qsim) ⭐ 700 | 🐛 47 | 🌐 C++ | 📅 2026-10-01 - Open-source, GPU-enabled C++ and Python library for fast state-vector simulation of quantum circuits.
-* [quimb](https://github.com/jcmgray/quimb) ⭐ 669 | 🐛 67 | 🌐 Python | 📅 2026-10-02 - Easy but fast python library for quantum information and many-body calculations, including with tensor networks.
+* [quimb](https://github.com/jcmgray/quimb) ⭐ 669 | 🐛 67 | 🌐 Python | 📅 2026-10-03 - Easy but fast python library for quantum information and many-body calculations, including with tensor networks.
 * [Quintuple](https://github.com/corbett/QuantumComputing) ⭐ 629 | 🐛 3 | 🌐 Python | 📅 2022-12-29 - Simulating the 5-qubit processor of the [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience).
 * [Qibo](https://github.com/qiboteam/qibo) ⭐ 366 | 🐛 82 | 🌐 Python | 📅 2026-10-02 - Framework for quantum simulation with hardware acceleration using just-in-time compilation.
 * [QuNetSim](https://github.com/tqsd/QuNetSim) ⭐ 143 | 🐛 23 | 🌐 Python | 📅 2024-04-02 - Quantum network simulation framework.
 * [SimulaQron](https://github.com/StephanieWehner/SimulaQron) ⭐ 135 | 🐛 15 | 🌐 Python | 📅 2026-05-15 - Application level simulator of a quantum network.
-* [Tsim](https://github.com/QuEraComputing/tsim) ⭐ 127 | 🐛 8 | 🌐 Python | 📅 2026-09-21 - GPU-accelerated universal quantum circuit sampler via ZX-calculus stabilizer-rank decomposition ([Stim](https://github.com/quantumlib/Stim) ⭐ 828 | 🐛 97 | 🌐 C++ | 📅 2026-09-22-like API, with non-Clifford support).
+* [Tsim](https://github.com/QuEraComputing/tsim) ⭐ 127 | 🐛 8 | 🌐 Python | 📅 2026-09-21 - GPU-accelerated universal quantum circuit sampler via ZX-calculus stabilizer-rank decomposition ([Stim](https://github.com/quantumlib/Stim) ⭐ 829 | 🐛 97 | 🌐 C++ | 📅 2026-09-22-like API, with non-Clifford support).
 * [Graphix](https://github.com/TeamGraphix/graphix) ⭐ 118 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Measurement-Based Quantum Computing (MBQC) compiler, simulator and QPU interface.
 * [The Walrus](https://github.com/xanaduAI/thewalrus) ⚠️ Archived - [Xanadu](https://www.xanadu.ai)'s library for simulating Gaussian Boson Sampling.
 * [QCompute](https://github.com/baidu/QCompute) ⭐ 102 | 🐛 3 | 🌐 Python | 📅 2023-12-18 - [Baidu](http://research.baidu.com/Research_Areas/index-view?id=75)'s software development kit for designing quantum circuits and simulating on a high-performance simulator.
@@ -220,7 +220,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum Analog Hamiltonian
 
-* [Pulser](https://github.com/pasqal-io/Pulser) ⭐ 250 | 🐛 42 | 🌐 Python | 📅 2026-10-02 - Python library for pulse-level/analog control of neutral atom devices.
+* [Pulser](https://github.com/pasqal-io/Pulser) ⭐ 250 | 🐛 43 | 🌐 Python | 📅 2026-10-02 - Python library for pulse-level/analog control of neutral atom devices.
 * [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) ⭐ 214 | 🐛 85 | 🌐 Julia | 📅 2026-04-08 - Package for the quantum computation and quantum simulation based on the neutral-atom architecture.
 
 ## Quantum annealing
@@ -282,7 +282,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 * [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) ⭐ 649 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-04-24 - Quantum machine learning platform to construct & train quantum neural networks, developed by Baidu.
 * [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) ⭐ 398 | 🐛 59 | 🌐 Python | 📅 2026-08-13 - Quantum Chemistry including ground state, excited states and dipole moment calculations.
 * [Grove](https://github.com/rigetticomputing/grove) ⚠️ Archived - Quantum algorithms implemented using [Rigetti](https://www.rigetti.com/)'s [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,501 | 🐛 240 | 🌐 Python | 📅 2026-09-30.
-* [ReCirq](https://github.com/quantumlib/ReCirq) ⭐ 309 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Modules for running quantum computing applications and experiments through [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,076 | 🐛 123 | 🌐 Python | 📅 2026-10-02.
+* [ReCirq](https://github.com/quantumlib/ReCirq) ⭐ 309 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Modules for running quantum computing applications and experiments through [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,077 | 🐛 123 | 🌐 Python | 📅 2026-10-02.
 * [OpenQAOA](https://github.com/entropicalabs/openqaoa) ⭐ 144 | 🐛 25 | 🌐 Python | 📅 2024-08-29 - Multi-backend SDK to create, customise and execute QAOA on NISQ devices and simulators.
 * [Quantum TSP](https://github.com/mstechly/quantum_tsp_tutorials) ⭐ 109 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-25 - Tutorials on solving Travelling Salesman Problem using quantum computing (QAOA).
 * [QuantumFlow](https://github.com/rigetti/quantumflow) ⚠️ Archived - Quantum Algorithms Development Toolkit e.g. allowing for backpropagation with QAOA.
@@ -316,11 +316,11 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 **C++**
 
 * [TKET](https://github.com/CQCL/tket) ⭐ 318 | 🐛 89 | 🌐 C++ | 📅 2026-10-01 - C++ library for placement, routing, and optimization of quantum circuits (developed by Quantinuum).
-* [Catalyst](https://github.com/PennyLaneAI/catalyst) ⭐ 236 | 🐛 331 | 🌐 Python | 📅 2026-10-02 - AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via [PennyLane](https://pennylane.ai).
+* [Catalyst](https://github.com/PennyLaneAI/catalyst) ⭐ 236 | 🐛 332 | 🌐 Python | 📅 2026-10-03 - AOT/JIT compiler for hybrid quantum computing beyond NISQ. Written in MLIR. Python frontend via [PennyLane](https://pennylane.ai).
 * [ScaffCC](https://github.com/epiqc/ScaffCC) ⭐ 202 | 🐛 8 | 🌐 C++ | 📅 2021-09-28 - Compilation, analysis and optimization framework for the Scaffold quantum programming language.
 * [MQT QMAP](https://github.com/cda-tum/mqt-qmap) ⭐ 146 | 🐛 21 | 🌐 C++ | 📅 2026-10-03 - Quantum circuit mapping. Clifford synthesis. Compilation for neutral atom architectures. Compatible with Qiskit through the [`mqt.qmap`](https://pypi.org/p/mqt.qmap) Python package.
 * [tweedledum](https://github.com/boschmitt/tweedledum) ⭐ 109 | 🐛 26 | 🌐 C++ | 📅 2026-07-16 - C++17 library for analysis, compilation/synthesis, and optimization of quantum circuits.
-* [MQT SyReC](https://github.com/cda-tum/mqt-syrec) ⭐ 39 | 🐛 19 | 🌐 C++ | 📅 2026-09-28 - HDL-based synthesis of reversible circuits for optimized circuit designs.
+* [MQT SyReC](https://github.com/cda-tum/mqt-syrec) ⭐ 39 | 🐛 19 | 🌐 C++ | 📅 2026-10-03 - HDL-based synthesis of reversible circuits for optimized circuit designs.
 * [QCOR](https://github.com/ORNL-QCI/qcor) ⭐ 11 | 🐛 0 | 📅 2021-12-20 - C++ language extension and associated compiler implementation for hybrid quantum-classical programming.
 
 **Mathematica**
@@ -333,7 +333,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 **Python**
 
-* [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) ⭐ 7,853 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02 - Python library for quantum circuit rewriting and optimization (supported by IBM).
+* [Qiskit Terra](https://github.com/Qiskit/qiskit-terra) ⭐ 7,854 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02 - Python library for quantum circuit rewriting and optimization (supported by IBM).
 * [PyZX](https://github.com/Quantomatic/pyzx) ⭐ 546 | 🐛 38 | 🌐 OpenQASM | 📅 2026-10-02 - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 * [Mitiq](https://github.com/unitaryfoundation/mitiq) ⭐ 446 | 🐛 105 | 🌐 Python | 📅 2026-10-01 - Cross-platform, quantum error mitigation toolkit and compiler from [Unitary Foundation](https://unitary.foundation/).
 * [Qubiter](https://github.com/artiste-qb-net/qubiter) ⭐ 122 | 🐛 41 | 🌐 HTML | 📅 2023-12-25 - Quantum compiler with Python wrapper for [LAPACK's CS Decomposition](http://www.netlib.org/lapack/README-CSD.html) to build a binary tree of matrices.
@@ -453,7 +453,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 * [QTT](https://github.com/QuTech-Delft/qtt) ⚠️ Archived - Quantum Technology Toolbox is a framework for the tuning and calibration of quantum dots and spin qubits.
 * [qupulse](https://github.com/qutech/qupulse) ⭐ 59 | 🐛 77 | 🌐 Python | 📅 2026-09-16 - Quantum computing pulse parametrization and sequencing framework (formerly qc-toolkit).
 * [QFlow-lite](https://github.com/jpzwolak/QFlow-lite) ⭐ 40 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-02-22 - Machine Learning tools for autotuning quantum dot experiments.
-* [MQT Qudits](https://github.com/cda-tum/mqt-qudits) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2026-10-01 - A framework for research and education for mixed-dimensional qudit quantum computing available via the \[`mqt.qudits`] Python package.
+* [MQT Qudits](https://github.com/cda-tum/mqt-qudits) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2026-10-03 - A framework for research and education for mixed-dimensional qudit quantum computing available via the \[`mqt.qudits`] Python package.
 * [QGL](https://github.com/BBN-Q/QGL) ⭐ 33 | 🐛 36 | 🌐 Python | 📅 2026-05-21 -  Domain-specific language embedded in Python for specifying pulse sequences.
 * [QEDA](https://github.com/Spooky-Manufacturing/QEDA) ⭐ 28 | 🐛 111 | 🌐 Java | 📅 2021-12-19 - Quantum Electronics Design Automation - The RTL of Quantum Computing!
 * [OLSQ](https://github.com/tbcdebug/OLSQ) ⭐ 26 | 🐛 0 | 🌐 OpenQASM | 📅 2022-07-23 - OpenQASM package to perform optimal layout synthesis for quantum computing.
@@ -563,9 +563,9 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 *2+ years of inactivity. Feel free to reanimate, document and contribute to some of this work!*
 
-* [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) ⚠️ Archived - Jupyter notebook filled with tutorials for [Qiskit](https://github.com/QISKit/qiskit) ⭐ 7,853 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02.
+* [Qiskit Tutorial](https://github.com/QISKit/qiskit-tutorial) ⚠️ Archived - Jupyter notebook filled with tutorials for [Qiskit](https://github.com/QISKit/qiskit) ⭐ 7,854 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02.
 * [QuSim](https://github.com/adamisntdead/QuSimPy) ⭐ 725 | 🐛 2 | 🌐 Python | 📅 2021-06-04 - Ideal noise-free multi-qubit simulator written in 150 lines of code.
-* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) ⚠️ Archived - Library of various quantum algorithm implemented with [Qiskit](https://github.com/Qiskit/qiskit) ⭐ 7,853 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02.
+* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) ⚠️ Archived - Library of various quantum algorithm implemented with [Qiskit](https://github.com/Qiskit/qiskit) ⭐ 7,854 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02.
 * [qiskit-ignis](https://github.com/qiskit/qiskit-ignis) ⚠️ Archived - Tools for quantum hardware verification, noise characterization, and error correction.
 * [Qiskit-JS](https://github.com/Qiskit/qiskit-js) ⚠️ Archived - [Quantum information software kit](https://qiskit.org/) for JavaScript (supported by IBM).
 * [8Q](https://github.com/Spooky-Manufacturing/8Q) ⭐ 101 | 🐛 4 | 🌐 Python | 📅 2022-05-02 - 8 Qbit, Photonic Quantum Computer.
